@@ -1,0 +1,5314 @@
+contain it
+which of the following is the best response after detecting and verifying an incident?
+
+
+tacical
+______ consists of taking the actions deemed appropriate to address the current incident...vv..vvv
+
+company rights
+a ______ policy states that the company may access monitor intercept block access inspect copy disclose use destroy or recover using computer forensics any data covered by this policy.
+
+
+a. keylogging, b. data sniffing refer to review sheets
+which of the following techniques might be used in covert surveillance?
+
+
+security policy
+______ establishes expectations for the protection of sensitive data and resources within the organization. subsections of this policy may address physical, electronic, and data security matters
+
+
+incident summary checklists, network details checklists, malware details checklists
+what are the primary checklists you should use to collect initial information about an incident?
+
+
+digital signature
+a ______ is data appended to, or a cryptographic transformation of, a data unit that allows a recipient of the data unit to prove the source and integrity of the data unit and protect against forgery
+
+
+analyzing data
+______ is the process of taking the evidence preserved in the previous step and performing an examination that is focused on answering the investigative questions.
+
+
+forensic duplication
+a(n) ______ is an accurate copy of data that is created with the goal of being admissible as evidence in legal proceedings. furthermore, we define forensic duplication as an image of every accessible bit from the source medium
+
+
+vulnerability
+a(n) ______ is a characteristic of a piece of technology that can be exploited to perpetrate a security incident.
+
+
+education and experience
+the ______ level focuses on developing the ability and vision to perform complex, multidisciplinary activities and the skills needed to further the it security profession and keep pace with threat and technology changes.
+
+
+audit dispatcher
+the ______ is a module that transmits the audit trail records from its local system to the centralized audit trail collector.
+
+
+incident summary checklist
+the first checklist you should complete is used to gather the basic vitals of an incident; it is called the
+
+
+least privilage
+the principles that should be followed for personnel security are: limited reliance on key employees, separation of duties, and ______ .
+
+
+true
+performing a live data collection and analysis will help you get answers quickly so you can reduce the risk of data loss or other negative consequences of an incident
+
+
+/var/log/mysql
+mysql is a very popular open source database that runs on linux, unix, and windows. the mysql configuration file, typically named my.cnf or my.conf, will indicate what logging is enabled, where the log files are
+
+
+human-made
+a partition on a disk drive that loses its data due to corruption from a hacker attack is a ______ kind of threat?
+
+
+dhcp
+______ protocol enables ranges of ip addresses to be defined on a system.
+
+
+active
+replay, masquerade, modification of messages, and denial of service are example of ______ attacks.
+
+
+passive attack
+a(n) ______ is an attempt to learn or make use of information from the system that does not affect system resources
+
+
+countermeasure
+a(n) ______ is an action, device, procedure, or technique that reduces a threat, a vulnerability, or an attack by eliminating or preventing it, by minimizing the harm it can cause, or by discovering and reporting it so that correct action can be taken
+
+
+internet usage policy
+establishes appropriate use of general internet resources, including expectation of privacy and notification of monitoring by or on behalf of the organization.
+
+
+file stack
+______ is the data present between the logical end of a file and the end of the allocation unit. it is technically allocated space (another file cannot use that area); however, slack space typically contains data that was part of the previous file or some random contents of memory, or both
+
+
+denial of service
+the ______ prevents or inhibits the normal use or management of communications facilities
+
+
+containment
+______ actions are designed to deny the attacker access to specific environments or sensitive data during an investigation.
+
+
+artifacts
+______ can include computer viruses, trojan horse programs, worms, exploit scripts, and toolkits.
+
+
+intent to cause harm, was performed by a person, involved a computing resource
+a computer security incident to be an event that has the following characteristics.
+
+
+physical evidence
+forensic scientists use ______ evidence to reconstruct the events of a crime.
+
+
+disk mirroring
+______ describes the technology that produces a redundant data set within a single server?
+
+
+availability
+a loss of ______ is the disruption of access to or use of information or an information system.
+
+
+internet usage policy
+______ establishes appropriate use of general internet resources, including expectation of privacy and notification of monitoring by or on behalf of the organization
+
+
+incident summary checklist
+the first checklist you should complete is used to gather the basic vitals of an incident; it is called the ______
+
+
+
+initial response
+the main objectives in this step include assembling the response team, reviewing network-based and other readily avaliable data, determining the type of impact.the goal is to gather enough initial information to allow the team todetermine the appropriate response
+
+
+incident summary checklists, network detail checklists, malware detail checklists
+what are the primary checklists you should use to collect initial information about an incident?
+
+
+human-made
+a partition on a disk drive that loses its data due to corruption from a hacker attack is what kind of threat?
+
+
+application-level
+______ audit trails may be used to detect security violations within an application or to detect flaws in the application's interaction with the system
+
+
+analyzing data
+______ is the process of taking the evidence preserved...
+
+
+company rights
+a ______ policy states that the company may access, monitor, intercept, block access, inspect, copy, disclose, use, destroy, or recover using computer forensics any data covered by this policy
+
+
+containment
+______ actions are designed to deny the attacker access to specific environments or sensitive data during an investigation
+
+
+false
+the incident scene should be returned to normal as soon as the investigator arrives.
+
+
+attack
+an assault on system security that derives from an intelligent act that is a deliberate attempt to evade security services and violate the security policy of a system is a(n) ______
+
+
+audit dispatcher
+the ______ is a module that transmits the audit trail records from its local system to the centralized audit trail collector
+
+
+%systemroot%\system32\dhcp
+what path is dhcp database stored?
+
+
+a. keylogging b. data sniffing refer to review sheets
+which of the following techniques might be used in covert surveillance?
+
+
+no answer
+to discover the scope of an incident, you cover three areas: (choose three)
+
+
+no answer
+______ is most useful in cases where you suspect the attacker is using the mechanism to hide their activites, such as rootkit,...
+
+
+disk mirroring
+______ describes the technology that produces a redundant data set at the file level in real time on a remote server
+
+
+forensic disk images
+______ are complete duplications of the hard drives in a system. during an incident response, it is common for us to collect images in a "live" mode, where the system is not taken offline and we create an image on external media.
+
+
+-------------------------------------
+---------------------------------
+
+
+drive-by downloads
+choose the most common method of distributing malware
+
+
+anti-malware protection at several locations
+choose the best form of anti-malware protection
+
+
+port scans can precede attacks that cause damage and may lead to a future attack
+why is port scanning considered an incident when it does no damage to the system?
+
+
+contain it
+choose the following is the best response after detecting and verifying an incident?
+
+
+physical evidence
+forensic scientists use ______ evidence to reconstruct the events of a crime.
+
+
+security intrusion
+a ______ is a security event that constitutes a security incident in which an intruder gains access to a system without having authorization to do so
+
+
+privacy
+employees have no expectation of ______ in their use of company-provided e-mail or internet access, even if the communication is personal in nature
+
+
+artifacts
+______ can include computer viruses, trojan horse programs, worms, exploit scripts, and toolkits
+
+
+true
+encase, ftk, smart, and ilook treat an image file as though it were the original disk.
+
+
+investigate, remediate
+what are the goals of incident response?
+
+
+system integrity verification tools
+______ scan critical system files, directories, and services to ensure they have not been changed without proper authorization
+
+
+security awareness
+______ is explicitly required for all employees
+
+
+date and time the incident was reported
+the information collected should provide you with a general sense of what has happened, and should help identify areas where your response protocol might need attention
+
+
+caching-only
+a dns server that hosts no domains and does not contain any zones is better known as a ______ server.
+
+
+ids
+network and host ______ monitor and analyze network and host activity and usually compare this information with a collection of attack signatures to identify potential security incidents
+
+
+digital signature
+a ______ is data appended to, or a cryptographic transformation of, a data unit that allows a recipient of the data unit to prove the source and integrity of the data unit and protect against forgery.
+
+
+education and experience
+the ______ level focuses on developing the ability and vision to perform complex, multidisciplinary activities and the skills needed to further the it security profession and to keep pace with threat and technology changes
+
+
+an automated process
+choose the best type of recovery process .
+
+
+computer emergency response team
+cert stands for ______
+
+
+remote access
+a trojan progam typically opens a back door to allow______ by an unauthorized user.
+
+
+md5, sha
+two hashing algorithms commonly used for forensic purposes are______
+
+
+posturing
+______ is the process of taking steps that will help ensure the success of remediation. activities such as establishing protocol, exchanging contact information, designating responsibilities, increasing visibility, scheduling resources, and coordinating timelines are all a part of the posturing step.
+
+
+backup
+a bit-by-bit complete, exact copy of all data referred to as a
+
+
+denial of service
+the ______ prevents or inhibits the normal use or management of communications of facilities
+
+
+data
+the assets of a computer system can be categorized as hardware, software, communication lines and networks, and ______
+
+
+forensic duplicationa
+a(n) ______ is an accurate copy of data that is created with the goal of being admissible as evidence in legal proceedings. furthermore, we define forensic duplication as an image of every accessible bit from the source medium
+
+
+security attack
+a ______ is any action that compromises the security of information owned by an organization
+
+
+security audit
+a ______ is conducted to determine the adequacy of system controls- ensure compliance with established security policy and procedures-detect breaches in security services- and recommend any changes that are indicated for countermeasures.
+
+
+contain it.
+which of the following is the best response after detecting and verifying an incident?
+
+
+root cause analysis
+which of the following would security personnel do during the remediation stage of an incident response?
+
+
+teardrop, smurf, ping of death
+which of the following are denial-of-service attacks? (choose three.)
+
+
+disrupts the three-way handshake used by tcp
+how does a syn flood attack work?
+
+
+zero-day exploit
+a web server hosted on the internet was recently attacked, exploiting a vulnerability in the operating system. the operating system vendor assisted in the incident investigation and verified the vulnerability was not previously known. what type of attack was this?
+
+
+drive-by downloads
+of the following choices, which is the most common method of distributing malware?
+
+
+detect abnormal activity
+of the following choices, what indicates the primary purpose of an intrusion detection system (ids)?
+
+
+it monitors a single system.
+which of the following is true for a host-based intrusion detection system (hids)?
+
+
+honeynet
+which of the following is a fake network designed to tempt intruders with unpatched and unprotected security vulnerabilities and false data?
+
+
+anti-malware protection at several locations
+of the following choices, what is the best form of anti-malware protection?
+
+
+performing attacks without management knowledge
+when using penetration testing to verify the strength of your security policy, which of the following is not recommended?
+
+
+monitoring
+what is used to keep subjects accountable for their actions while they are authenticated to a system?
+
+
+detective
+what type of a security control is an audit trail?
+
+
+auditing
+which of the following options is a methodical examination or review of an environment to ensure compliance with regulations and to detect abnormalities, unauthorized occurrences, or outright crimes?
+
+
+clipping levels
+what can be used to reduce the amount of logged or audited data using nonstatistical methods?
+
+
+traffic analysis
+which of the following focuses more on the patterns and trends of data than on the actual content?
+
+
+user entitlement audit
+what would detect when a user has more privileges than necessary?
+
+
+gather evidence
+what should have been done before rebooting the web server?
+
+
+attacking the ip address
+which of the following indicates the most serious mistake the server administrator made in this incident?
+
+
+lessons learned
+what was missed completely in this incident?
+
+
+network bandwidth
+______ relates to the capacity of the network links connecting a server to the wider internet.
+
+
+poison packet
+a ______ triggers a bug in the system's network handling software causing it to crash and the system can no longer communicate over the network until this software is reloaded.
+
+
+source address spoofing
+using forged source addresses is known as ______ .
+
+
+syn spoofing attack
+the ______ attacks the ability of a network server to respond to tcp connection requests by overflowing the tables used to manage such connections.
+
+
+three-way handshake
+tcp uses the ______ to establish a connection.
+
+
+application-based
+______ bandwidth attacks attempt to take advantage of the disproportionally large resource consumption at a server.
+
+
+sip
+______ is a text-based protocol with a syntax similar to that of http.
+
+
+spidering
+bots starting from a given http link and then following all links on the provided website in a recursive way is called ______ .
+
+
+slowloris
+______ attempts to monopolize all of the available request handling threads on the web server by sending http requests that never complete.
+
+
+backscatter
+a characteristic of reflection attacks is the lack of ______ traffic.
+
+
+syn spoofing attacks
+in both direct flooding attacks and ______ the use of spoofed source addresses results in response packets being scattered across the internet and thus detectable.
+
+
+dns amplification
+in a ______ attack the attacker creates a series of dns requests containing the spoofed source address for the target system.
+
+
+syn spoofing attack
+it is possible to specifically defend against the ______ by using a modified version of the tcp connection handling code.
+
+
+random drop
+modifying the system's tcp/ip network code to selectively drop an entry for an incomplete connection from the tcp connections table when it overflows allowing a new connection attempt to proceed is ______ .
+
+
+identify the attack
+when a dos attack is detected the first step is to ______ .
+
+
+it security management
+______ is a formal process to ensure that critical assets are sufficiently protected in a cost-effective manner.
+
+
+management
+______ controls focus on security policies- planning- guidelines and standards that influence the selection of operational and technical controls to reduce the risk of loss and to protect the organization's mission.
+
+
+supportive
+______ controls are pervasive- generic- underlying technical it security capabilities that are interrelated with- and used by- many other controls.
+
+
+detection and recovery
+______ controls focus on the response to a security breach by warning of violations or attempted violations of security policies.
+
+
+larger, more detailed
+a contingency plan for systems critical to a large organization would be ______ than that for a small business.
+
+
+b. cost-benefit analysis
+management should conduct a ______ to identify those controls that are most appropriate and provide the greatest benefit to the organization given the available resources.
+
+
+security officer
+the implementation process is typically monitored by the organizational ______ .
+
+
+compliance
+the objective of the ______ control category is to avoid breaches of any law statutory- regulatory- or contractual obligations and of any security requirements.
+
+
+business continuity management
+the objective of the ______ control category is to counteract interruptions to business activities and to protect critical business processes from the effects of major failures of information systems or disasters and to ensure their timely resumption.
+
+
+event discriminator
+the ______ is logic embedded into the software of the system that monitors system activity and detects security-related events that it has been configured to detect.
+
+
+audit trail collector
+the ______ is a module on a centralized system that collects audit trail records from other systems and creates a combined audit trail.
+
+
+audit analysis
+______ identifies the level of auditing enumerates the types of auditable events and identifies the minimum set of audit-related information provided.
+
+
+system-level
+______ audit trails are generally used to monitor and optimize system performance.
+
+
+application-level
+______ audit trails may be used to detect security violations within an application or to detect flaws in the application's interaction with the system.
+
+
+nine
+windows allows the system user to enable auditing in ______ different categories.
+
+
+emerg
+severe messages such as immediate system shutdown is a(n) ______ severity.
+
+
+alert
+system conditions requiring immediate attention is a(n) ______ severity.
+
+
+dynamically linked shared libraries
+with ______ the linking to shared library routines is deferred until load time so that if changes are made any program that references the library is unaffected.
+
+
+thresholding
+______ is the identification of data that exceed a particular baseline value.
+
+
+siem
+______ software is a centralized logging software package similar to but much more complex than syslog.
+
+
+risky resource management
+"incorrect calculation of buffer size" is in the ______ software error category.
+
+
+porous defenses
+"improper access control (authorization)" is in the ______ software error category.
+
+
+secure programming
+defensive programming is sometimes referred to as ______ .
+
+
+input
+incorrect handling of program ______ is one of the most common failings in software security.
+
+
+injection attack
+______ is a program flaw that occurs when program input data can accidentally or deliberately influence the flow of execution of the program.
+
+
+command injection
+a ______ attack occurs when the input is used in the construction of a command that is subsequently executed by the system with the privileges of the web server.
+
+
+code injection
+a ______ attack is where the input includes code that is then executed by the attacked system.
+
+
+php remote code injection
+blocking assignment of form field values to global variables is one of the defenses available to prevent a ______ attack.
+
+
+cross-site scripting
+______ attacks are vulnerabilities involving the inclusion of script code in the html content of a web page displayed by a user's browser.
+
+
+regular expression
+a ______ is a pattern composed of a sequence of characters that describe allowable input variants.
+
+
+fuzzing
+the intent of ______ is to determine whether the program or function correctly handles all abnormal inputs or whether it crashes or otherwise fails to respond appropriately.
+
+
+memory leak
+a stead reduction in memory available on the heap to the point where it is completely exhausted is known as a ______ .
+
+
+lock
+the most common technique for using an appropriate synchronization mechanism to serialize the accesses to prevent errors is to acquire a ______ on the shared file ensuring that each process has appropriate access in turn.
+
+
+environment variables
+______ are a collection of string values inherited by each process from its parent that can affect the way a running process behaves.
+
+
+xss reflection
+the most common variant of injecting malicious script content into pages returned to users by the targeted sites is the ______ vulnerability.
+
+
+security levels
+security classes are referred to as ______ .
+
+
+security classes
+the ______ control the manner by which a subject may access an object.
+
+
+append
+the ______ access mode allows the subject only write access to the object.
+
+
+write
+the ______ access mode allows the subject both read and write access to the object.
+
+
+ds-property
+"an individual (or role) may grant to another individual (or role) access to a document based on the owner's discretion constrained by the mac rules" describes the ______ .
+
+
+classification creep
+______ is when a new document consolidates information from a range of sources and levels so that some of that information is now classified at a higher level than it was originally.
+
+
+chinese wall
+the ______ model was developed for commercial applications in which conflicts of interest can arise.
+
+
+sanitized
+______ data are data that may be derived from corporate data but that cannot be used to discover the corporation's identity.
+
+
+trustworthiness
+______ is assurance that a system deserves to be trusted such that the trust can be guaranteed in some convincing way such as through formal analysis or code review.
+
+
+polyinstantiation
+inserting a new row at a lower level without modifying the existing row at the higher level is known as ______ .
+
+
+tpm
+the ______ is a hardware module that is at the heart of a hardware/software approach to trusted computing.
+
+
+class
+a ______ is a collection of requirements that share a common focus or intent.
+
+
+certifier
+the ______ is the government agency that monitors the evaluation process.
+
+
+assurance
+______ is a process that ensures a system is developed and operated as intended by the system's security policy.
+
+
+mime
+______ defines a number of content formats which standardize representations for the support of multimedia e-mail.
+
+
+enveloped data
+the ______ function consists of encrypted content of any type and encrypted-content encryption keys for one or more recipients.
+
+
+clear-signed data
+in the case of ______ only the digital signature is encoded using base64.
+
+
+digital signature
+the result of s/mime encrypting the digest using dss and the sender's private dss key is the ______ .
+
+
+radix-64
+to protect the data either the signature alone or the signature plus the message are mapped into printable ascii characters using a scheme known as ______ or base64mapping.
+
+
+the public-key certificate
+the basic tool that permits widespread use of s/mime is ______ .
+
+
+mua
+at its most fundamental level the internet mail architecture consists of a user world in the form of ______ .
+
+
+mda
+the ______ is responsible for transferring the message from the mhs to the ms.
+
+
+mail submission agent
+the ______ accepts the message submitted by a message user agent and enforces the policies of the hosting domain and the requirements of internet standards.
+
+
+handshake protocol
+the most complex part of tls is the ______ .
+
+
+ciphersuite
+______ is a list that contains the combinations of cryptographic algorithms supported by the client.
+
+
+tunnel
+esp supports two modes of use: transport and ______ .
+
+
+protocol identifier
+the ______ field in the outer ip header indicates whether the association is an ah or esp security association.
+
+
+kerberos
+one of the earliest and most widely used services is ______ .
+
+
+x.509
+______ is important as part of the directory service that it supports and is also a basic building block used in other standards.
+
+
+kerberos
+______ requires that a user prove his or her identity for each service invoked and optionally requires servers to prove their identity to clients.
+
+
+des
+kerberos uses the ______ encryption algorithm.
+
+
+x.509
+______ certificates are used in most network security applications- including ip security- secure sockets layer- secure electronic transactions- and s/mime.
+
+
+period of validity
+the ______ consists of two dates: the first and last on which the certificate is valid.
+
+
+serial number
+an integer value unique within the issuing ca that is unambiguously associated with the certificate is the______ .
+
+
+repository
+a ______ is a generic term used to denote any method for storing certificates and crls so that they can be retrieved by end entities.
+
+
+certification
+______ is the process in which a ca issues a certificate for a user's public key and returns that certificate to the user's client system and/or posts that certificate in a repository.
+
+
+registration
+______ is the process whereby a user first makes itself known to a ca prior to that ca issuing a certificate or certificates for that user.
+
+
+federation
+______ is a process where authentication and permission will be passed on from one system to another usually across multiple enterprises reducing the number of authentications needed by the user.
+
+
+soap
+______ is a minimal set of conventions for invoking code using xml over http that enables applications to request services from one another with xml-based requests and receive responses as data formatted with xml.
+
+
+xml
+______ is a markup language that uses sets of embedded tags or labels to characterize text elements within a document so as to indicate their appearance- function- meaning- or context.
+
+
+workflow automation
+______ is movement of data in a business process.
+
+
+all of the above
+a wireless access point is a ______ .
+
+
+dos
+the wireless environment lends itself to a ______ attack because it is so easy for the attacker to direct multiple wireless messages at the target.
+
+
+network injection
+an example of a(n) ______ attack is one in which bogus reconfiguration commands are used to affect routers and switches to degrade network performance.
+
+
+access point
+a(n) ______ is any entity that has station functionality and provides access to the distribution system via the wireless medium for associated stations.
+
+
+mpdu
+the unit of data exchanged between two peer mac entities using the services of the physical layer is a(n) ______ .
+
+
+distribution system
+a system used to interconnect a set of basic service sets and lans to create an extended service set is a ______ .
+
+
+mac
+the function of the ______ layer is to control access to the transmission medium and to provide an orderly and efficient use of that capacity.
+
+
+rsn
+the final form of the 802.11i standard is referred to as ______ .
+
+
+wpa
+in order to accelerate the introduction of strong security into wlans the wi-fi alliance promulgated ______ a set of security mechanisms that eliminates most 802.11 security issues as a wi-fi standard.
+
+
+cipher suite
+the specification of a protocol along with the chosen key length is known as a ______ .
+
+
+pre-shared key
+a ______ is a secret key shared by the ap and a sta and installed in some fashion outside the scope of ieee 802.11i.
+
+
+4-way handshake
+the mpdu exchange for distributing pairwise keys is known as the ______ .
+
+
+bss
+the smallest building block of a wireless lan is a ______ .
+
+
+accountability
+security awareness- training- and education programs can serve as a deterrent to fraud and actions by disgruntled employees by increasing employees' knowledge of their ______ and of potential penalties.
+
+
+security basics and literacy
+the ______ category is a transitional stage between awareness and training.
+
+
+security awareness
+______ is explicitly required for all employees.
+
+
+education and experience
+the ______ level focuses on developing the ability and vision to perform complex multidisciplinary activities and the skills needed to further the it security profession and to keep pace with threat and technology changes.
+
+
+executives
+______ need training on the development of risk management goals- means of measurement- and the need to lead by example in the area of security awareness.
+
+
+triage
+______ is the process of receiving- initial sorting- and prioritizing of information to facilitate its appropriate handling.
+
+
+computer emergency response team
+cert stands for ______ .
+
+
+artifacts
+______ can include computer viruses trojan horse programs- worms- exploit scripts- and toolkits.
+
+
+system integrity verification tools
+______ scan critical system files- directories- and services to ensure they have not been changed without proper authorization.
+
+
+disciplinary action
+a ______ policy states that violation of this policy may result in immediate termination of employment or other discipline deemed appropriate by the company.
+
+
+backscatter
+the icmp echo response packets generated in response to a ping flood using randomly spoofed source addresses is known as ______ traffic.
+
+
+flooding
+______ attacks flood the network link to the server with a torrent of malicious packets competing with valid traffic flowing to the server.
+
+
+session initiation
+the standard protocol used for call setup in voip is the ______ protocol.
+
+
+responces
+requests and ______ are the two different types of sip messages.
+
+
+http
+a ______ flood refers to an attack that bombards web servers with http requests.
+
+
+reflection
+during a ______ attack, the attacker sends packets to a known service on the intermediary with a spoofed source address of the actual target system and when the intermediary responds, the response is sent to the target.
+
+
+spoofed source
+in reflection attacks, the ______ address directs all the packets at the desired target and any responses to the intermediary.
+
+
+amplification
+______ attacks are a variant of reflector attacks and also involve sending a packet with a spoofed source address for the target system to intermediaries.
+
+
+ip-directed
+the best defense against broadcast amplification attacks is to block the use of ______ broadcasts.
+
+
+attack reaction
+the four lines of defense against ddos attacks are: attack prevention and preemption, attack detection and filtering, attack source traceback and identification and ______ .
+
+
+isp
+since filtering needs to be done as close to the source as possible by routers or gateways knowing the valid address ranges of incoming packets, an ______ is best placed to ensure that valid source addresses are used in all packets from its customers.
+
+
+captcha
+a ______ is a graphical puzzle used to attempt to identify legitimate human initiated interactions.
+
+
+incident response
+to respond successfully to a dos attack a good ______ plan is needed that includes details of how to contact technical personal for your isp(s).
+
+
+replicating
+if an organization is dependent on network services it should consider mirroring and ______ these servers over multiple sites with multiple network connections.
+
+
+denial of service (dos)
+a ______ is an action that prevents or impairs the authorized use of networks, systems, or applications by exhausting resources such as central processing units, memory, bandwidth, and disk space.
+
+
+risk assessment
+a ______ on an organization's it systems identifies areas needing treatment.
+
+
+control
+______ is a means of managing risk, including policies, procedures, guidelines, practices, or organizational structures.
+
+
+monitor
+the three steps for it security management controls and implementation are: prioritize risks, respond to risks, and ______ .
+
+
+technical
+______ controls involve the correct use of hardware and software security capabilities in systems.
+
+
+it security
+the ______ plan documents what needs to be done for each selected control, along with the personnel responsible, and the resources and time frame to be used.
+
+
+management
+when the implementation is successfully completed, ______ needs to authorize the system for operational use.
+
+
+security compliance
+______ checking is an audit process to review the organization's security processes.
+
+
+change
+______ management is the process used to review proposed changes to systems for implications on the organization's systems and use.
+
+
+configuration
+______ management is concerned with specifically keeping track of the configuration of each system in use and the changes made to each.
+
+
+detection and recovery
+the ______ controls focus on the response to a security breach, by warning of violations or attempted violations of security policies or the identified exploit of a vulnerability and by providing means to restore the resulting lost computing resources.
+
+
+operational
+contingency planning falls into the ______ class of security controls.
+
+
+preventative
+______ controls focus on preventing security beaches from occurring by inhibiting attempts to violate security policies or exploit a vulnerability.
+
+
+security compliance
+the ______ audit process should be conducted on new it systems and services once they are implanted; and on existing systems periodically, often as part of a wider, general audit of the organization or whenever changes are made to the organization's security policy.
+
+
+supportive
+controls can be classified as belonging to one of the following classes: management controls, operational controls, technical controls, detection and recovery controls, preventative controls, and ______ controls.
+
+
+operational
+incident response is part of the ______ class of security controls.
+
+
+security auditing
+______ is a form of auditing that focuses on the security of an organization's is assets.
+
+
+security audit trail
+a ______ is a chronological record of system activities that is sufficient to enable the reconstruction and examination of the sequence of environments and activities surrounding or leading to an operation, procedure, or event in a security-relevant transaction from inception to final results.
+
+
+security audit
+a ______ is an independent review and examination of a system's records and activities.
+
+
+audit trail examiner
+the ______ is an application or user who examines the audit trail and the audit archives for historical trends, for computer forensic purposes, and for other analysis.
+
+
+archives
+the audit ______ are a permanent store of security-related events on a system.
+
+
+system alerts of failures
+monitoring areas suggested in iso 27002 include: authorized access, all privileged operations, unauthorized access attempts, changes to (or attempts to change) system security settings and controls, and ______ .
+
+
+user-level
+______ audit trail traces the activity of individual users over time and can be used to hold a user accountable for his or her actions.
+
+
+write-only device
+rfc 2196 (site security handbook) lists three alternatives for storing audit records: read/write file on a host, write-once/read-many device, and ______ .
+
+
+application
+windows is equipped with three types of event logs: system event log, security event log, and ______ event log.
+
+
+syslog
+______ is unix's general-purpose logging mechanism found on all unix variants and linux.
+
+
+msg
+messages in the bsd syslog format consist of three parts: pri, header, and ______ .
+
+
+audit
+the ______ repository contains the auditing code to be inserted into an application.
+
+
+baselining
+______ is the process of defining normal versus unusual events and patterns.
+
+
+windwing
+______ is detection of events within a given set of parameters, such as within a given time period or outside a given time period.
+
+
+agent-based
+siem software has two general configuration approaches: agentless and ______ .
+
+
+insecure action between components
+"failure to preserve sql query structure" is in the ______ cwe/sans software error category.
+
+
+defensive
+______ programming is a form of design intended to ensure the continuing function of a piece of software in spite of unforeseeable usage of the software.
+
+
+input
+program ______ refers to any source of data that originates outside the program and whose value is not explicitly known by the programmer when the code was written.
+
+
+size
+two key areas of concern for any input are the ______ of the input and the meaning and interpretation of the input.
+
+
+library routines
+a number of widely used standard c ______ compound the problem of buffer overflow by not providing any means of limiting the amount of data transferred to the space available in the buffer.
+
+
+binary
+program input data may be broadly classified as textual or ______ .
+
+
+sql injection
+in the ______ attack the user supplied input is used to construct a sql request to retrieve information from a database.
+
+
+cross-site scripting
+______ attacks are most commonly seen in scripted web applications.
+
+
+xss reflection
+a variant where the attacker includes malicious script content in data supplied to a site is the______ vulnerability.
+
+
+canonicalization
+the process of transforming input data that involves replacing alternate, equivalent encodings by one common value is called ______ .
+
+
+fuzzing
+the major advantage of ______ is its simplicity and its freedom from assumptions about the expected input to any program, service, or function.
+
+
+race condition
+a ______ occurs when multiple processes and threads compete to gain uncontrolled access to some resource.
+
+
+chroot jail
+unix related systems provide the chroot system function to limit a program's view of the file system to just one carefully configured section that is known as a ______ .
+
+
+privilege escalation
+if privileges are greater than those already available to the attacker the result is a ______ .
+
+
+least privilege
+the principle of ______ strongly suggests that programs should execute with the least amount of privileges needed to complete their function.
+
+
+clearance
+a subject is said to have a security ______ of a given level.
+
+
+classification
+an object is said to have a security ______ of a given level.
+
+
+execute
+the ______ access mode allows the subject neither read nor write access to the object but may invoke the object for execution.
+
+
+multilevel
+when multiple categories or levels of data are defined, the requirement is referred to as______ security.
+
+
+ss-property
+"no read up" is also referred to as the ______ property.
+
+
+biba integrity
+the ______ model is intended to deal with the case in which there is data that must be visible to users at multiple or all security levels but should only be modified in controlled ways by authorized agents.
+
+
+clark-wilson
+the ______ model is aimed at commercial rather than military applications and closely models real commercial operations.
+
+
+certification
+______ rules are security policy restrictions on the behavior of ivps and tps.
+
+
+enforcement
+______ rules are built-in system security mechanisms that achieve the objectives of the certification rules.
+
+
+reference monitor
+the ______ is a controlling element in the hardware and operating system of a computer that regulates the access of subjects to objects on the basis of security parameters of the subject and object.
+
+
+blp
+______ secure is a class of system that has system resources at more than one security level and that permits concurrent access by users who differ in security clearance and need to-know, but is able to prevent each user from accessing resources for which the user lacks authorization.
+
+
+encryption
+trusted computing provides three basic services: authenticated boot, certification, and ______ .
+
+
+authenticated boot
+the ______ service is responsible for booting the entire operating system in stages and assuring that each portion of the os, as it is loaded, is a version that is approved for use.
+
+
+nist
+in the united states the ______ and the nsa jointly operate the common criteria evaluation and validation scheme.
+
+
+7
+to structure the need for assurance the cc defines a scale for rating assurance consisting of______ evaluation assurance levels ranging from the least rigor and scope for assurance evidence to the most.
+
+
+s/mime
+______ is a security enhancement to the mime internet e-mail format standard, based on technology from rsa data security.
+
+
+signed
+s/mime content-types support four new functions: enveloped data, ______ , clearsigned data, and signed and enveloped data.
+
+
+digital signature
+a ______ is formed by taking the message digest of the content to be signed and then encrypting that with the private key of the signer.
+
+
+s/mime
+a signed data message can only be viewed by a recipient with ______ capability.
+
+
+dss
+the default algorithms used for signing s/mime messages are sha-1 and the ______ .
+
+
+elgamal
+the default algorithms used for encrypting s/mime messages are the triple des and a public-key scheme known as ______ .
+
+
+radix-64
+if encryption is used alone, ______ is used to convert the ciphertext to ascii format.
+
+
+dkim
+______ is a specification for cryptographically signing e-mail messages, permitting a signing domain to claim responsibility for a message in the mail stream.
+
+
+message user agent
+the ______ is housed in the user's computer and is referred to as a client e-mail program or a local network e-mail server.
+
+
+dns
+the ______ is a directory lookup service that provides a mapping between the name of a host on the internet and its numerical address.
+
+
+• confidentiality
+the ssl record protocol provides two services for ssl connection: message integrity and______ .
+
+
+alert protocol
+the ______ is used to convey ssl-related alerts to the peer entity.
+
+
+ip destination address
+a security association is uniquely identified by three parameters: security parameter index, protocol identifier, and ______ .
+
+
+key management
+ip-level security encompasses three functional areas: authentication, confidentiality, and______ .
+
+
+encapsulating security payload (esp)
+ipsec provides two main functions: a combined authentication/encryption function called______ and a key exchange function.
+
+
+biometric
+______ systems are automated methods of verifying or recognizing identity on the basis of some physiological or behavioral characteristic.
+
+
+kerberos
+a software utility initially developed at mit and available both in the public domain and in commercially supported versions, ______ is the defacto standard for remote authentication.
+
+
+authentication server
+an alternative to each server being required to confirm identities of clients who request service is to use an ______ that knows the passwords of all users and stores them in a centralized database.
+
+
+realm
+a full-service kerberos environment consisting of a kerberos server that has the user id and password of all participating users in its database and shares a secret key with each server, all users and servers being registered with the kerberos server, is referred to as a kerberos ______ .
+
+
+issuer unique identifier
+the ______ is an optional bit string field used to identify uniquely the issuing ca in the event the x.500 name has been reused for different entities.
+
+
+public key infastructure
+______ is the set of hardware, software, people, policies, and procedures needed to create, manage, store, distribute, and revoke digital certificates based on asymmetric cryptography.
+
+
+authority
+the certification ______ is the issuer of certificates and certificate revocation lists.
+
+
+key pair recovery
+______ allows end entities to restore their encryption/decryption key pair from an authorized key backup facility.
+
+
+identity management
+the focus of ______ is defining an identity for each user, associating attributes with the identity, and enforcing a means by which a user can verify identity.
+
+
+pricipal
+in a generic identity management architecture a ______ is an identity holder.
+
+
+data consumers
+in a generic identity management architecture ______ are entities that obtain and employ data maintained and provided by identity and attribute providers, often to support authorization decisions and to collect audit information.
+
+
+saml
+______ is an xml-based language for the exchange of security information between online business partners.
+
+
+ws-security
+______ is a set of soap extensions for implementing message integrity and confidentiality in web services.
+
+
+ticket granting server
+in kerberos, the ______ decrypts the ticket and authenticator, verifies the request, and creates ticket for requested server.
+
+
+timestamp
+the ticket contains the user's id, the server's id, a ______ , a lifetime after which the ticket is invalid, and a copy of the same session key sent in the outer message to the client.
+
+
+accountability
+the security requirements are: confidentiality, integrity, availability, authenticity, and ______ .
+
+
+endpoint
+the wireless environment consists of three components that provide point of attack: the wireless client, the transmission medium, and the ______ .
+
+
+man-in-the-middle attacks
+a ______ attack involves persuading a user and an access point to believe that they are talking to each other when in fact the communication is going through an intermediate attacking device.
+
+
+dos
+a ______ attack occurs when an attacker continually bombards a wireless access point or some other accessible wireless port with various protocol messages designed to consume system resources.
+
+
+network injection
+a ______ attack targets wireless access points that are exposed to non-filtered network traffic, such as routing protocol messages or network management messages.
+
+
+eavesdropping
+the principal threats to wireless transmission are disruption, ______ , and altering or inserting messages.
+
+
+data confidentiality
+like tkip, ccmp provides two services: message integrity and ______ .
+
+
+encryption
+two types of countermeasures are appropriate to deal with eavesdropping: signal-hiding techniques and ______ .
+
+
+physical
+the lowest layer of the ieee 802 reference model is the ______ layer.
+
+
+mac header
+the fields preceding the msdu field are referred to as the ______ .
+
+
+mac trailer
+the field following the msdu field is referred to as the ______ .
+
+
+integration
+the two services involved with the distribution of messages within a ds are distribution and ______ .
+
+
+access control
+the 802.11i rsn security specification defines the following services: authentication, privacy with message integrity, and ______ .
+
+
+pairwise keys
+there are two types of keys: ______ used for communication between a sta and an ap and group keys used for multicast communication.
+
+
+group master key
+at the top level of the group key hierarchy is the ______ .
+
+
+fraud
+the principal problems associated with employee behavior are errors and omissions,______ , and actions by disgruntled employees.
+
+
+awareness
+there is a need for a continuum of learning programs that starts with ______ , builds to training, and evolves into education.
+
+
+education and experience
+the four layers of the learning continuum as summarized by nist sp 800-16 are:security awareness, security basics and literacy, roles and responsibilities relative to it systems, and the ______ level.
+
+
+roles and responsibilities
+after security basics and literacy, training becomes focused on providing the knowledge,skills, and abilities specific to an individual's ______ relative to it systems.
+
+
+security awareness
+in general, a(n) ______ program seeks to inform and focus an employee's attention on issues related to security within the organization.
+
+
+csirt
+in large and medium-sized organizations, a(n) ______ is responsible for rapidly detecting incidents, minimizing loss and destruction, mitigating the weaknesses that were exploited, and restoring computing services.
+
+
+incident
+any action that threatens one or more of the classic security services of confidentiality,integrity, availability, accountability, authenticity, and reliability in a system constitutes a(n)______ .
+
+
+iso 27002
+______ lists the following security objective with respect to current employees: "to ensure that employees, contractors, and third-party users are aware of information security threats and concerns and their responsibilities and liabilities with regard to information security and are equipped to support organizational security policy in the course of their normal work and to reduce the risk of human error".
+
+
+ids
+network and host ______ monitor and analyze network and host activity and usually compare this information with a collection of attack signatures to identify potential security incidents.
+
+
+triage
+the goal of the ______ function is to ensure that all information destined for the incident handling service is channeled through a single focal point regardless of the method by which it arrives for appropriate redistribution and handling within the service.
+
+
+artifact
+a(n) ______ is any file or object found on a system that might be involved in probing or attacking systems and networks or that is being used to defeat security measures.
+
+
+constituency
+the group of users, sites, networks, or organizations served by the csirt is a(n)______ .
+
+
+privacy
+employees have no expectation of ______ in their use of company-provided e-mail or internet access, even if the communication is personal in nature.
+
+
+a. most companies keep inventory databases of all hardware and software used.
+corporate investigations are typically easier than law enforcement investigations for which of the following reasons?
+
+
+true
+in the united states, if a company publishes a policy stating that it reserves the right to inspect computing assets at will, a corporate investigator can conduct covert surveillance on an employee with little cause.
+
+
+true
+if you discover a criminal act, such as murder or child pornography, while investigating a corporate policy abuse, the case becomes a criminal investigation and should be referred to law enforcement.
+
+
+a. you begin to take orders from a police detective without a warrant or subpoena. b. your internal investigation has concluded, and you have filed a criminal complaint and turned over the evidence to law enforcement.
+as a corporate investigator, you can become an agent of law enforcement when which of the following happens? (choose all that apply.)
+
+
+false
+the plain view doctrine in computer searches is well-established law.
+
+
+a. coordinate with the hazmat team. c. assume the suspect computer is contaminated. rfer to review sheets
+if a suspect computer is located in an area that might have toxic chemicals, you must do which of the following? (choose all that apply.)
+
+
+it can't be predicted, no two files can have the same hash value, and if the file changes, the hash value changes.
+what are the three rules for a forensic hash?
+
+
+two files have the same hash value
+in forensic hashes, a collision occurs when ______ .
+
+
+small computer toolkit, large-capacity drive, ide ribbon cables, forensic boot media, laptop ide 40-to-44 pin adapter, laptop or portable computer, firewire or usb dual write-protect external bay, flashlight, digital camera or 35mm ca
+list three items that should be in an initial-response field kit.
+
+
+to minimize how much you have to keep track of at the scene
+when you arrive at the scene, why should you extract only those items you need to acquire evidence?
+
+
+true
+computer peripherals or attachments can contain dna evidence.
+
+
+a. browsing open applications refer to review sheets
+if a suspect computer is running windows 2000, which of the following can you perform safely?
+
+
+computers, cable connections, overview of scene—anything that might be of interest to the investigation
+describe what should be videotaped or sketched at a computer crime scene.
+
+
+keylogging, data sniffing refer to review sheets
+which of the following techniques might be used in covert surveillance?
+
+
+sensitive corporate information being mixed with data collected as evidence
+commingling evidence means what in a corporate setting?
+
+
+md5 and sha-1
+identify two hashing algorithms commonly used for forensic purposes.
+
+
+false
+small companies rarely need investigators
+
+
+true
+if a company doesn't distribute a computing use policy stating an employer's right to inspect employees' computers freely, including e-mail and web use, employees have an expectation of privacy.
+
+
+initial-response field kit
+you have been called to the scene of a fatal car crash where a laptop computer is still running. what type of field kit should you take with you?
+
+
+false
+you should always answer questions from onlookers at a crime scene.
+
+
+system integrity
+______ assures that a system performs its intended function in an unimpaired manner, free from deliberate or inadvertent unauthorized manipulation of the system
+
+
+true
+in the context of security, our concern is with the vulnerabilities of system resources [t/f]
+
+
+true
+security mechanisms typically do not involve more than one particular algorithm or protocol [t/f]
+
+
+data integrity
+the assurance that data received are exactly as sent by an authorized entity is ______
+
+
+true
+computer security is essentially a battle of wits between a perpetrator who tries to find holes and the administrator who tries to close them [t/f]
+
+
+denial-of-service
+the ______ prevents or inhibits the normal use or management of communications facilities
+
+
+true
+computer security is protection of the integrity, availability, and confidentiality of information system resources [t/f]
+
+
+true
+hardware is the most vulnerable to attack and the least susceptible to automated controls [t/f]
+
+
+false
+the "a" in the cia triad stands for "authenticity" [t/f]
+
+
+false
+contingency planning is a functional area that primarily requires computer security technical measures [t/f]
+
+
+deception
+masquerade, falsification, and repudiation are threat actions that cause ______ threat consequences
+
+
+false
+assurance is the process of examining a computer product or system with respect to certain criteria [t/f]
+
+
+confidentiality
+a loss of ______ is the unauthorized disclosure of information
+
+
+true
+availability assures that systems works promptly and service is not denied to authorized users [t/f]
+
+
+privacy
+______ assures that individuals control or influence what information related to them may be collected and stored and by whom and to whom that information may be disclosed
+
+
+true
+the more critical a component or service, the higher the level of availability required [t/f]
+
+
+true
+many security administrators view strong security as an impediment to efficient and user-friendly operation of an information system [t/f]
+
+
+true
+data integrity assures that information and programs are changed only in a specified and authorized manner [t/f]
+
+
+vulnerability
+a flaw or weakness in a system's design, implementation, or operation and management that could be exploited to violate the system's security policy is a(n) ______
+
+
+exposure
+a threat action in which sensitive data are directly released to an unauthorized entity is ______
+
+
+true
+the first step in devising security services and mechanisms is to develop a security policy [t/f]
+
+
+false
+threats are attacks carried out [t/f]
+
+
+masquerade
+an example of ______ is an attempt by an unauthorized user to gain access to a system by posing as an authorized user
+
+
+high
+a ______ level breach of security could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals
+
+
+system resource
+data contained in an information system; or a service provided by a system; or a system capability, such as processing power or communication bandwidth; or an item of system equipment; or a facility that houses system operations and equipment
+
+
+vulnerability.
+a flaw or weakness in a system's design, implementation, or operation and management that could be exploited to violate the system's security policy
+
+
+adversary
+an entity that attacks, or is a threat to, a system
+
+
+attack
+an assault on system security that derives from an intelligent threat
+
+
+risk
+an expectation of loss expressed as the probability that a particular threat will exploit a particular vulnerability with a particular harmful result
+
+
+threat
+a potential for violation of security, which exists when there is a circumstance, capability, action, or event, that could breach security and cause harm
+
+
+security policy
+a set of rules and practices that specify or regulate how a system or organization provides security services to protect sensitive and critical system resources
+
+
+countermeasure
+an action, device, procedure, or technique that reduces a threat, a vulnerability, or an attack by eliminating or preventing it, by minimizing the harm it can cause, or by discovering and reporting it so that corrective action can be taken
+
+
+least astonishment
+a program or user interface should always respond in the way that is least likely to confuse the user
+
+
+complete mediation
+every access must be checked against the access control mechanism
+
+
+psychological acceptability
+the security mechanisms should not interfere unduly with the work of users, while at the same time meeting the needs of those who authorize access
+
+
+economy of mechanism
+the design of security measures embodied in both hardware and software should be as simple and small as possible
+
+
+separation of privilege
+a practice in which multiple privilege attributes are required to achieve access to a restricted resource
+
+
+open design
+the design of a security mechanism should not be secret
+
+
+encapsulation
+a specific form of separation based on object-oriented functionality
+
+
+modularity
+the development of security functions as separate, protected modules
+
+
+least common mechanism
+the design should minimize the functions shared by different users, providing mutual security
+
+
+fail-safe default
+access decisions should be based on permission rather than exclusion
+
+
+least privilege
+every process and every user of the system should operate using the minimal set of permissions necessary to perform the task
+
+
+layering
+the use of multiple, overlapping protection approaches
+
+
+isolation
+public access systems should be separated from critical resources
+
+
+computer security
+protection afforded to an automated information system in order to attain the applicable objectives of preserving the integrity, availability, confidentiality of information system resources
+
+
+cia triad
+confidentiality, integrity and availability form what is often referred to as the
+
+
+availability
+is the disruption of access to or use of information on an information system
+
+
+ferpa (family educational rights and privacy act)
+in the us student grade information is a asset whose confidentiality is regulated by:
+
+
+attack
+an assault on system security that derives from a intelligent act that is deliberate attempt to evade security services and violate the security policy of a system
+
+
+countermeasure
+is an action, device, procedure, or technique that reduces a threat, a vulnerability, or an attack by eliminating or preventing it, by minimizing the harm it can cause, or by discovering and reporting it so that correct action can be taken; is any means taken to deal with a security attack
+
+
+usurpation
+misappropriation and misuse are attacks that result in ______ threat consequences
+
+
+data
+the assets of a computer system can be categorized as hardware, software, communication lines and networks, and ______ .
+
+
+passive attack
+is an attempt to learn or make use of information from the system that does not affect system resources
+
+
+active attack
+is a threat that is carried out, if successful, leads to an undesirable violation of security, or threat consequences
+
+
+contingency
+establishing, maintaining, and implementing plans for emergency response, backup operations, and post disaster recovery for organizational information systems to ensure the availability of critical information resources and continuity of operations in emergency situations is a ______ plan
+
+
+risk
+a(n) ______ assessment is periodically assessing the risk to organizational operations, organizational assets, and individuals, resulting from the operation of organizational information systems and the associated processing, storage, or transmission or organizational information
+
+
+mechanisms
+the osi security architecture focuses on security attacks, ______ , and services
+
+
+recovery
+security implementation involves four complementary courses of action: prevention, detection, response, and ______ .
+
+
+availability ensures that systems works properly and service is not denied to authorized users
+true
+
+
+the a in cia triad stands for authenticity
+false
+
+
+security mechanisms typically do not involve more than one particular algorithm or protocol
+false
+
+
+privacy
+assures that individuals controlled or influence what information related to them may be collected and stored and by whom and to whom that information may be disclosed
+
+
+system integrity
+assures that a system performs its intended function in an unimpaired manner, free from deliberate or inadvertent unauthorized manipulation of the system
+
+
+confidentiality
+is the unauthorized disclosure of information
+
+
+high level - breach of security
+could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals
+
+
+vulnerability
+flaw or weaknesses in a system's design, implementation, or operation and management that could be exploited to violate the system's security policy
+
+
+employee behavior
+a critical concern in ensuring the security of computer systems and information assets. dumb employee behavior, intentional or not, causes considerable computer-related loss and security comprising.
+
+
+accountability
+security training programs can serve as a deterrent to these problems by increasing employees' knowledge of their ______ and of potential penalties.
+
+
+liability
+ongoing security awareness, training, and education programs are also important in limiting an organization's ______
+
+
+regulations and contractual obligations
+security programs are also key to comply with ______ in many cases.
+
+
+security awareness, security basics and literacy, roles and responsibilities relative to it systems, education and experience
+4 layers of security
+
+
+explicitly required for all employees, whereas security basics/literacy is required for those employees, including contractor employees, who are involved in any way with it systems.
+security awarness
+
+
+is a transitional stage between awareness and training. provides the foundation for subsequent training by providing a universal baseline of key security terms and concepts.
+security basics and literacy
+
+
+roles and responsibilities relative to it systems
+after security basics/literacy, training becomes focused on providing the knowledge, skills, and abilities specific to an individual's ______ this is the level where training recognizes the differences among beginning/intermediate/advanced skill requirements.
+
+
+education and experience
+level focuses on developing the ability and vision to perform complex, multidisciplinary activities and the skills needed to further the it security profession and keep pace with threat and technology changes.
+
+
+security awareness program
+a ______ seeks to inform and focus an employee's attention on issues related to security within an organization.
+
+
+programmers, developers, and system maintainers
+______ require more specialized or advanced training. these people need to know how their systems/developments can be exploited.
+
+
+management level
+______ training should teach development managers how to make trade-offs among risks, costs, and benefits involving security. the managers needs to understand the development life cycle and the use of security checkpoints and security evaluation techniques.
+
+
+executive level
+______ training must explain the difference between software security/network security and the pervasiveness of software security issues. done in relation to cost.
+
+
+security education
+______ is the most in-depth program targeted at security professionals and those whose jobs require expertise in security.
+
+
+negligent hiring
+employers need to be cognizant of the concept of______ that applies in some jurisdictions. in essence, an employer may be held liable for negligent hiring if an employee causes harm to a third party (individual or company) while acting as an employee.
+
+
+ongoing awareness, training programs for all employees
+2 essential elements of personnel security during employment
+
+
+least privilege, separation of duties, limited reliance on key employees
+principles of personnel security
+
+
+least privilege
+give each person the minimum access necessary to do his or her job. logical and physical.
+
+
+separation of duties
+carefully separate duties so that people involved in checking for inappropriate use are not also capable of making such inappropriate use.
+
+
+limited reliance on key employees
+no one in the organization should be irreplaceable. have written policies/plans established for the unexpected.
+
+
+business use only
+company-provided email and internet access are to be used by employees only for the purpose of conducting company business.
+
+
+policy scope
+policy covers e-mail access; contents of email messages, internet/intranet communications, records of email/internet/intranet communications.
+
+
+content ownership
+electronic communications, files, and data remain company property even when transferred to equipment not owned by the company.
+
+
+privacy
+employees have no expectation of privacy in their use of company-provided email/internet access, even if communication is personal
+
+
+standard of conduct
+employees are expected to use good judgment and act courteously and professionally when using email/internet
+
+
+reasonable personal use
+employees may make reasonable personal use of email/internet as long as it doesn't hurt productivity/work/etc.
+
+
+unlawful activity prohibited
+employees can't use email/internet for illegal shit
+
+
+security policy
+employees must follow security policy when using email/internet
+
+
+company policy
+employees must follow all other company policies when using email/internet.
+
+
+company rights
+company may access/monitor/intercept/block access/inspect/copy/disclose/use/destroy/recover using computer forensics and/or retain any communications, files, or other data covered by this policy.
+
+
+disciplinary action
+violation of this policy may result in immediate termination/company determined discipline.
+
+
+computer security response team (csirt)
+for large and medium-sized organizations, a______ is responsible for rapidly detecting incidents, minimizing loss and destruction, mitigating the weaknesses that were exploited, and restoring computing services.
+
+
+security response policy
+csirt develops a
+
+
+artifact
+any file or object found on a system that might be involved in probing or attacking systems and networks or that is being used to defeat security measures. can include, but are not limited to, computer viruses, trojan horse programs, worms, exploit scripts, and toolkits.
+
+
+computer security incident response team (csirt)
+a capability set up for the purpose of assisting in responding to computer security-related incidents that involve sites within a defined constituency; also called a computer incident response team (cirt) or a circ (computer incident response center/capability)
+
+
+constituency
+group of users/sites/networks/organizations served by a csirt
+
+
+incident
+a violation or imminent threat of violation of computer security policies, acceptable use policies, or standard security practices.
+
+
+triage
+the process of receiving, initial sorting, and prioritizing of information to facilitate its appropriate handling
+
+
+vulnerability
+a characteristic of a piece of technology which can be exploited to perpetrate a security incident.
+
+
+system integrity verification tools
+scan critical system files, directories, and services to ensure they have not been changed without proper authorization.
+
+
+log analysis tools
+analyze the information collected in audit logs using some form of pattern recognition to identify potential security incidents.
+
+
+network host intrusion detection systems (ids)
+monitor and analyze network and host activity and usually compare this information with a collection of attack signatures to identify potential security incidents.
+
+
+intrusion prevention systems
+augment an ids with the ability to automatically block detected attacks. such systems need to be used with care, because they can cause problems if they respond to a misidentified attack and reduce system functionality when not justified
+
+
+triage functions / focal point
+the goal of ______ is to ensure that all information destined for the incident handling service is channeled through a single______ regardless of the method by which
+
+
+response procedures
+______ must detail how to identify the cause of the incident.
+
+
+incident response policies
+include responses for dos, malicious code, unauthorized access, inappropriate use, multiple-component incidents.
+
+
+adversary
+(threat agent), an entity that attacks, or is a threat to, a system.
+
+
+attack
+an assault on system security that derives from an intelligent threat; that is, an intelligent act that is a deliberate attempt (especially in the sense of a method or technique) to evade security services and violate the security policy of a system.
+
+
+countermeasure
+an action, device, procedure, or technique that reduces a threat, a vulnerability, or an attack by eliminating or preventing it, by minimizing the harm it can cause, or by discovering and reporting it so that corrective action can be taken.
+
+
+risk
+an expectation of loss expressed as the probability that a particular threat will exploit a particular vulnerability with a particular harmful result.
+
+
+security policy
+a set of rules and practices that specify or regulate how a system or organization provides security services to protect sensitive and critical system resources.
+
+
+system resource
+(asset)-data contained in an information system; or a service provided by a system; or a system capability, such as processing power or communication bandwidth; or an item of system equipment (i.e. a system component); or a facility that houses system operations and equipment.
+
+
+threat
+a potential for violation of security, which exists when there is circumstance, capability, action, or event, that could breach security and cause harm. that is, a threat is a possible danger that might exploit a vulnerability.
+
+
+vulnerability
+a flaw or weakness in a system's design, implementation, or operation and management that could be exploited to violate the system's security policy.
+
+
+active attack
+an attempt to alter system resources or affect their operation.
+
+
+passive attack
+an attempt to learn or make use of information from the system that does not affect system resources.
+
+
+inside attack
+initiated by an entity inside the security parameter (an "insider") the insider is authorized to access system resources but uses them in a way not approved by those who granted the authorization.
+
+
+outside attack
+initiated from outside the parameter, by an unauthorized or illegitimate user of the system (an "outsider"). on the internet, potential ______ ers range from amateur pranksters to organized criminals, international terrorists, and hostile governments.
+
+
+unauthorized disclosure
+a circumstance or event whereby an entity gains access to data for which the entity is not authorized.
+
+
+deception
+a circumstance or event that may result in an authorized entity receiving false data and believing it to be true.
+
+
+disruption
+a circumstance or event that interrupts or prevents the correct operation or system services and functions.
+
+
+usurpation
+a circumstance or event that results in control of system services or functions by an unauthorized entity.
+
+
+exposure
+sensitive data are directly released to an unauthorized entity.
+
+
+interception
+an unauthorized entity directly accesses sensitive data traveling between authorized sources and destinations.
+
+
+inference
+a threat action whereby an unauthorized entity indirectly accesses sensitive data (but not necessarily the data contained in the communication) by reasoning from characteristics or by-products of communications.
+
+
+data confidentiality
+assures that private or confidential information is not made available or disclosed to unauthorized individuals.
+
+
+data integrity
+assures that information and programs are changed only in a specified and authorized manner.
+
+
+availability
+assures that systems work promptly and service is not denied to authorized users.
+
+
+hardware
+including computer systems and other data processing, data storage, and data communication services.
+
+
+software
+including the operating system, system utilities,and applications
+
+
+data
+including files and databases, as well as security-related data, such as password files.
+
+
+evaluation
+process of examining a computer product or system with respect to certain criteria. involves testing and may also involve formal analytic or mathematical techniques.
+
+
+assurance
+the degree of confidence one has that the security measures, both technical and operational, work as intended to protect the system and the information it processes.
+
+
+notarization
+the use of a trusted third party to assure certain properties of a data exchange.
+
+
+routing control
+enables selection of particularly physically secure routes for certain data and allows routing changes, especially when a breach of security is suspected.
+
+
+traffic padding
+the insertion of bits into gaps in a data stream to frustrate traffic analysis attempts.
+
+
+encipherment
+the use of mathematical algorithms to transform data into a form that is not readily intelligible
+
+
+access control
+a variety of mechanisms that enforce access rights to resources
+
+
+computer security
+the protection afforded to an automated information system in order in attain the applicable objectives of preserving the integrity, availability, and confidentiality of information system resources (includes hardware, software, firmware, information/data, and telecommunications)
+
+
+asset
+system resource that users and owners wish to protect. include hardware, software, and data.
+
+
+authentication
+assurance that the communicating entity is the one that it claims to be.
+
+
+authenticity
+property of being genuine and being able to be verified and trusted. confidence in the validity of a transmission, a message, or message originator. verifying that users are who they say they are and that each input arriving at the system came from a trusted source.
+
+
+corruption
+attack on system integrity. malicious software in this context could operate in such a way that system resources or services function in an unintended manner. or user could gain unauthorized access to a system and modify some of its functions.
+
+
+denial of service
+active attack that prevents or inhibits the normal use or management of communications facilities. this attack may have a specific target. another form of this attack is the disruption of an entire network, either by disabling the network or by overloading it with messages so as to degrade performance.
+
+
+encryption
+common technique for masking contents of messages.
+
+
+falsification
+the altering or replacing of valid data or the introduction of false data into a file or database.
+
+
+incapacitation
+attack on system availability. could occur as a result of physical destruction of or damage to system hardware. malicious software could operate in such a way as to disable a system or some of its services.
+
+
+intrusion
+an adversary gaining unauthorized access to sensitive data by overcoming the system's access control protections
+
+
+masquerade
+attempt by an unauthorized user to gain access to a system by posing as an authorized user. this could happen if the unauthorized user has learned another user's logon id and password. another example is malicious logic such as a trojan horse that appears to perform a useful or desirable function but actually gains unauthorized access to system resources or trickers user into executing other malicious logic
+
+
+misappropriation
+can include theft of service. a distributed denial of service attack, when malicious software is installed on a number of hosts to be used as platforms to launch traffic at a target host. malicious software makes unauthorized user of a processor and operating system resources.
+
+
+misuse
+can occur by means of either malicious logic of a hacker that has gained unauthorized access to a system. security functions can be disabled or thwarted.
+
+
+nonrepudiation
+provides protection against denial by one of the entities involved in a communication of having participated in all or part of the communication
+
+
+obstruction
+a threat action that interrupts delivery of system services by hindering system operation. could disable communication links or alter communication control information. could overload the system by placing excess burden on communication traffic or processing resources.
+
+
+privacy
+assures that individuals control or influence what information related to them may be collected and stored and by whom and to whom that information may be disclosed.
+
+
+replay
+involves passive capture of a data unit and its subsequent retransmission to produce an unauthorized effect.
+
+
+repudiation
+an entity deceives another by falsely denying responsibility for an act.
+
+
+security attack
+any action that compromises the security of information owned by an organization.
+
+
+security mechanism
+a mechanism that is designed to detect, prevent, or recover from a security attack.
+
+
+security service
+service that enhances the security of the data processing systems and the information transfers of an organization. services intended to counter security attacks and they make use of one or more security mechanisms to provide the service.
+
+
+system integrity
+assures that a system performs its intended function in an unimpaired manner, free from deliberate or inadvertent unauthorized manipulation of the system.
+
+
+system resource
+(asset) data contained in an information system, or a service provided by a system, or a system capability such as processing power or communications bandwidth, or an item of system equipment (hardware, firmware, software, or documentation) or a facility that houses system oerations and equipment.
+
+
+traffic analysis
+type of passive attack in which opponent could observe pattern of messages. could determine location and identity of communicating hosts and could observe frequency and length of messages being exchanged.
+
+
+
+1. Which security control role does encryption meet?
+O A. Preventative
+O B. Detective
+O C. Offensive
+OD. Defensive
+A. Preventative
+
+
+2. When does the Payment Card Industry Data Security Standard (PCI-DSS) require organizations to perform external and internal penetration testing?
+OA. At least once a year and after any significant upgrade or modification
+OB. At least once every three years or after any significant upgrade or modification
+OC. At least twice a year or after any significant upgrade or modification
+OD. At least once every two years and after any significant upgrade or modification
+OA. At least once a year and after any significant upgrade or modification
+
+
+3. Which statement is TRUE regarding network firewalls preventing Web Application attacks?
+O A Network firewalls can prevent attacks because they can detect malicious HTTP traffic
+O B. Network firewalls cannot prevent attacks because ports 80 and 443 must be opened.
+OC. Network firewalls can prevent attacks if they are properly configured.
+OD. Network firewalls cannot prevent attacks because they are too complex to configure.
+B. Network firewalls cannot prevent attacks because ports 80 and 443 must be opened.
+
+
+4. A circuit level gateway works at which of the following layers of the OSI Model?
+O A. Layer 5 - Application
+O B. Layer 4 - TCP
+OC. Layer 3 - Internet protocol
+OD. Layer 2 - Data link
+B. Layer 4 - TCP
+
+
+5. Which of the following describes the characteristics of a Boot Sector Virus?
+O A. Moves the MBR to another location on the RAM and copies itself to the original location of the MBR
+O B. Moves the MBR to another location on the hard disk and copies itself to the original location of the MBR
+O C. Modifies directory table entries so that directory entries point to the virus code instead of the actual program
+OD Overwrites the original MBR and only executes the new virus code
+B. Moves the MBR to another location on the hard disk and copies itself to the original location of the MBR
+
+
+6. The intrusion detection system at a software development company suddenly generates multiple alerts regarding attacks against the company's external webserver, VPN concentrator, and DNS servers. What should the security team do to determine which alerts to check first?
+O A Investigate based on the maintenance schedule of the affected systems.
+O B. Investigate based on the service level agreements of the systems.
+O C. Investigate based on the potential effect of the incident.
+OD. Investigate based on the order that the alerts arrived in
+C. Investigate based on the potential effect of the incident.
+
+
+7. While performing data validation of web content, a security technician is required to restrict malicious input. Which of the following processes is an efficient way of restricting malicious input?
+O A. Validate web content input for query strings.
+OB. Validate web content input with scanning tools.
+OC. Validate web content input for type, length, and range.
+O D. Validate web content input for extraneous queries.
+C. Validate web content input for type, length, and range.
+
+
+8. Which tool can be used to silently copy files from USB devices?
+O A USB Grabber
+OB. USB Dumper
+O C. USB Sniffer
+OD USB Snoopy
+B. USB Dumper
+
+
+9. Which of the following problems can be solved by using Wireshark?
+O A Tracking version changes of source code
+OB Checking creation dates on all webpages on a server
+OC Resetting the administrator password on multiple systems
+OD. Troubleshooting communication resets between two systems
+D. Troubleshooting communication resets between two systems
+
+
+10. The precaution of prohibiting employees from bringing personal computing devices into a facility is what type of security control?
+OA Physical
+OB. Procedural
+O C. Technical
+OD. Compliance
+B. Procedural
+
+
+11. Which of the following items of a computer system will an anti-virus program scan for viruses?
+O A Boot Sector
+O B. Deleted Files
+OC. Windows Process List
+OD. Password Protected Files
+A Boot Sector
+C. Windows Process List
+
+
+12. How can a policy help improve an employee's security awareness?
+O A. By implementing written security procedures, enabling employee security training, and promoting the benefits of security
+O B. By using informal networks of communication, establishing secret passing procedures, and immediately terminating employees
+O C. By sharing security secrets with employees, enabling employees to share secrets, and establishing a consultative help line
+OD. By decreasing an employee's vacation time, addressing ad-hoc employment clauses, and ensuring that managers know employee strengths
+A. By implementing written security procedures, enabling employee security training, and promoting the benefits of security
+
+
+13. A bank stores and processes sensitive privacy information related to home loans. However, auditing has never been enabled on the system. What is the first step that the bank should take before enabling the audit feature?
+O A Perform a vulnerability scan of the system.
+OB. Determine the impact of enabling the audit feature.
+O C. Perform a cost/benefit analysis of the audit feature
+O D. Allocate funds for staffing of audit log review.
+B. Determine the impact of enabling the audit feature
+
+
+14. Which of the following scanning tools is specifically designed to find potential exploits in Microsoft Windows products?
+OA. Microsoft Security Baseline Analyzer
+OB. Retina
+O C. Core Impact
+OD. Microsoft Baseline Security Analyzer
+A. Microsoft Security Baseline Analyzer
+
+
+15. Which of the following is an example of an asymmetric encryption implementation?
+O A SHA1
+OB. PGP
+O C. 3DES
+OD. MD5
+B. PGP
+
+
+16. Which of the following is a symmetric cryptographic standard?
+OA. DSA
+OB. РКІ
+OC. RSA
+OD 3DES
+D 3DES
+
+
+17. After gaining access to the password hashes used to protect access to a web based application, knowledge of which cryptographic algorithms would be useful to gain access to the application?
+O A. SHA1
+O B. Diffie-Helman
+O C. RSA
+OD. AES
+A. SHA1
+
+
+18. Which of the following is a hashing algorithm?
+O A. MD5
+OB. PGP
+O C. DES
+OD. ROT13
+A. MD5
+
+
+19. Which of the following is an application that requires a host application for replication?
+O A Micro
+OB. Worm
+O C. Trojan
+OD. Virus
+D. Virus
+
+
+20. Which of the following can the administrator do to verify that a tape backup can be recovered in its entirety?
+O A. Restore a random file.
+O B. Perform a full restore.
+OC. Read the first 512 bytes of the tape.
+OD. Read the last 512 bytes of the tape.
+B. Perform a full restore.
+
+
+21. International Organization for Standardization (ISO) standard 27002 provides guidance for compliance by outlining
+O A guidelines and practices for security controls.
+O B. financial soundness and business viability metrics.
+O C. standard best practice for configuration management.
+OD. contract agreement writing standards
+A guidelines and practices for security controls.
+
+
+22. John the Ripper is a technical assessment tool used to test the weakness of which of the following?
+O A Usernames
+O B. File permissions
+O C. Firewall rulesets
+OD. Passwords
+D. Passwords
+
+
+23. Which of the following is considered an acceptable option when managing a risk?
+O A Reject the risk
+OB. Deny the risk.
+O C. Mitigate the risk.
+O D. Initiate the risk
+C. Mitigate the risk.
+
+
+24. To send a PGP encrypted message, which piece of information from the recipient must the sender have before encrypting the message?
+O A. Recipient's private key
+OB. Recipient's public key
+O C. Master encryption key
+OD. Sender's public key
+B. Recipient's public key
+
+
+25. What are the three types of compliance that the Open Source Security Testing Methodology Manual (OSSTMM) recognizes?
+O A. Legal, performance, audit
+O B . Audit, standards based, regulatory
+OC. Contractual, regulatory, industry
+OD. Legislative, contractual, standards based
+D. Legislative, contractual, standards based
+
+
+26. How can rainbow tables be defeated?
+O A Password salting
+OB. Use of non-dictionary words
+O C. All uppercase character passwords
+OD. Lockout accounts under brute force password cracking attempts
+A Password salting
+
+
+27. A security analyst is performing an audit on the network to determine if there are any deviations from the security policies in place. The analyst discovers that a user from the IT department had a dial-out modem installed. Which security policy must the security analyst check to see if dial-out modems are allowed?
+O A Firewall-management policy
+OB. Acceptable-use policy
+OC. Remote-access policy
+OD. Permissive policy
+C. Remote-access policy
+
+
+28. Which of the following lists are valid data-gathering activities associated with a risk assessment?
+O A. Threat identification, vulnerability identification, control analysis
+O B. Threat identification, response identification, mitigation identification
+O C. Attack profile, defense profile, loss profile
+O D System profile, vulnerability identification, security determination
+A. Threat identification, vulnerability identification, control analysis
+
+
+29. Which of the following is a hardware requirement that either an IDS/IPS system or a proxy server must have in order to properly function?
+O A Fast processor to help with network traffic analysis
+O B. They must be dual-homed
+O C. Similar RAM requirements
+OD. Fast network interface cards
+B. They must be dual-homed
+
+
+30. What statement is true regarding LM hashes?
+OA. LM hashes consist in 48 hexadecimal characters.
+OB LM hashes are based on AES128 cryptographic standard.
+OC. Uppercase characters in the password are converted to lowercase.
+OD. LM hashes are not generated when the password length exceeds 15 characters
+D. LM hashes are not generated when the password length exceeds 15 characters
+
+
+31. Smart cards use which protocol to transfer the certificate in a secure manner?
+OA. Extensible Authentication Protocol (EAP)
+OB. Point to Point Protocol (PPP) L
+OC. Point to Point Tunneling Protocol (PPTP)
+OD. Layer 2 Tunneling Protocol (L2TP)
+A. Extensible Authentication Protocol (EAP)
+
+
+32. Which of the following does proper basic configuration of snort as a network intrusion detection system require?
+O A. Limit the packets captured to the snort configuration file.
+O B. Capture every packet on the network segment.
+O C. Limit the packets captured to a single segment.
+O D. Limit the packets captured to the Ivar/log/snort directory.
+A. Limit the packets captured to the snort configuration file.
+
+
+33. A computer science student needs to fill some information into a secured Adobe PDF job application that was received from a prospective employer. Instead of requesting a new document that allowed the forms to be completed, the student decides to write a script that pulls passwords from a list of commonly used passwords to try against the secured PDF until the correct password is found or the list is exhausted.
+Which cryptography attack is the student attempting?
+OA. Man-in-the-middle attack
+O B. Brute-force attack
+O C. Dictionary attack
+OD. Session hijacking
+C. Dictionary attack
+
+
+34. What is the best defense against privilege escalation vulnerability?
+O A Patch systems regularly and upgrade interactive login privileges at the system administrator level.
+O B. Run administrator and applications on least privileges and use a content registry for tracking.
+O C. Run services with least privileged accounts and implement multi-factor authentication and authorization.
+O D. Review user roles and administrator privileges for maximum utilization of automation services.
+C. Run services with least privileged accounts and implement multi-factor authentication and authorization.
+
+
+35. Which of the following identifies the three modes in which Snort can be configured to run?
+O A. Sniffer, Packet Logger, and Network Intrusion Detection System
+O B. Sniffer, Network Intrusion Detection System, and Host Intrusion Detection System
+O C. Sniffer, Host Intrusion Prevention System, and Network Intrusion Prevention System
+O D. Sniffer, Packet Logger, and Host Intrusion Prevention System
+A. Sniffer, Packet Logger, and Network Intrusion Detection System
+
+
+36. Which type of access control is used on a router or firewall to limit network activity?
+O A. Mandatory
+O B. Discretionary
+OC. Rule-based
+OD. Role-based
+C. Rule-based
+
+
+37. When setting up a wireless network, an administrator enters a pre-shared key for security. Which of the following is true?
+O A. The key entered is a symmetric key used to encrypt the wireless data.
+OB. The key entered is a hash that is used to prove the integrity of the wireless data.
+O C. The key entered is based on the Diffie-Hellman method.
+OD. The key is an RSA key used to encrypt the wireless data.
+A. The key entered is a symmetric key used to encrypt the wireless data.
+
+
+38. When setting up a wireless network, an administrator enters a pre-shared key for security. Which of the following is true?
+O A. The key entered is a symmetric key used to encrypt the wireless data.
+O B. The key entered is a hash that is used to prove the integrity of the wireless data.
+O C. The key entered is based on the Diffie-Hellman method.
+OD. The key is an RSA key used to encrypt the wireless data.
+A. The key entered is a symmetric key used to encrypt the wireless data.
+
+
+39. Which of the following guidelines or standards is associated with the credit card industry?
+O A. Control Objectives for Information and Related Technology (COBIT)
+O B. Sarbanes-Oxley Act (SOX)
+O C. Health Insurance Portability and Accountability Act (HIPAA)
+OD. Payment Card Industry Data Security Standards (PCI DSS)
+D.Payment Card Industry Data Security Standards (PCI DSS)
+
+
+40. When creating a security program, which approach would be used if senior management is supporting and enforcing the security policy?
+OA. A bottom-up approach
+O B. A top-down approach
+O C. A senior creation approach
+O D. An IT assurance approach
+B. A top-down approach
+
+
+41. Which of the following ensures that updates to policies, procedures, and configurations are made in a controlled and documented fashion?
+O A Regulatory compliance
+O B. Peer review
+O C. Change management
+O D. Penetration testing
+C. Change management
+
+
+42. Which of the following techniques will identify if computer files have been changed?
+O A Network sniffing
+OB Permission sets
+O C. Integrity checking hashes
+O D . Firewall alerts
+C. Integrity checking hashes
+
+
+43. What is one thing a tester can do to ensure that the software is trusted and is not changing or tampering with critical data on the back end of a system it is loaded on?
+O A Proper testing
+OB. Secure coding principles
+O C. Systems security and architecture review
+O D. Analysis of interrupts within the software
+D. Analysis of interrupts within the software
+
+
+44. An NMAP scan of a server shows port 69 is open. What risk could this pose?
+O A. Unauthenticated access
+OB. Weak SSL version
+O C. Cleartext login
+OD. Web portal data leak
+A. Unauthenticated access
+
+
+45. Which of the following is a primary service of the U.S. Computer Security Incident Response Team (CSIRT)?
+O A. CSIRT provides an incident response service to enable a reliable and trusted single point of contact for reporting computer security incidents worldwide.
+OB. CSIRT provides a computer security surveillance service to supply a government with important intelligence information on individuals travelling abroad.
+O C. CSIRT provides a penetration testing service to support exception reporting on incidents worldwide by individuals and multi-national corporations.
+OD. CSIRT provides a vulnerability assessment service to assist law enforcement agencies with profiling an individual's property or company's asset
+A. CSIRT provides an incident response service to enable a reliable and trusted single point of contact for reporting computer security incidents worldwide.
+
+
+46. A company is using Windows Server 2003 for its Active Directory (AD). What is the most efficient way to crack the passwords for the AD users?
+O A. Perform a dictionary attack.
+O B. Perform a brute force attack.
+O C. Perform an attack with a rainbow table.
+O D. Perform a hybrid attack.
+C. Perform an attack with a rainbow table.
+
+
+47. Which of the following algorithms provides better protection against brute force attacks by using a 160-bit message digest?
+O A. MD5
+O B. SHA-1
+O C. RC4
+O D. MD4
+B. SHA-1
+
+
+48. Which cipher encrypts the plain text digit (bit or byte) one by one?
+O A. Classical cipher
+O B. Block cipher
+O C. Modern cipher
+OD. Stream cipher
+D. Stream cipher
+
+
+49. For messages sent through an insecure channel, a properly implemented digital signature gives the receiver reason to believe the message was sent by the claimed sender. While using a digital signature, the message digest is encrypted with which key?
+O A. Sender's public key
+O B. Receiver's private key
+O C. Receiver's public key
+O D. Sender's private key
+D. Sender's private key
+
+
+50. Which solution can be used to emulate computer services, such as mail and ftp, and to capture information related to logins or actions?
+O A Firewall
+OB. Honeypot
+OC. Core server
+OD. Layer 4 switch
+OB. Honeypot
+
+
+51. What information should an IT system analysis provide to the risk assessor?
+O A. Management buy-in
+OB. Threat statement
+O C. Security architecture
+OD. Impact analysis
+C. Security architecture
+
+
+52. When utilizing technical assessment methods to assess the security posture of a network, which of the following techniques would be most effective in determining whether end-user security training would be beneficial?
+O A Vulnerability scanning
+OB. Social engineering
+O C. Application security testing
+OD. Network sniffing
+B. Social engineering
+
+
+53. An IT security engineer notices that the company's web server is currently being hacked. What should the engineer do next?
+A Unplug the network connection on the company's web server.
+B. Determine the origin of the attack and launch a counterattack.
+C. Record as much information as possible from the attack.
+D. Perform a system restart on the company's web server.
+A Unplug the network connection on the company's web server.
+
+
+54. Firewalk has just completed the second phase (the scanning phase) and a technician receives the output shown below. What conclusions can be drawn based on these scan results?
+TCP port 21 - no response TCP port 22 - no response TCP port 23 - Time-to-live exceeded
+O A. The firewall itself is blocking ports 21 through 23 and a service is listening on port 23 of the target host.
+OB. The lack of response from ports 21 and 22 indicate that those services are not running on the destination server.
+O C. The scan on port 23 passed through the filtering device. This indicates that port 23 was not blocked at the firewall.
+O D. The scan on port 23 was able to make a connection to the destination host prompting the firewall to respond with a TTL error.
+O C. The scan on port 23 passed through the filtering device. This indicates that port 23 was not blocked at the firewall.
+
+
+55. Which vital role does the U.S. Computer Security Incident Response Team (CSIRT) provide?
+O A. Incident response services to any user, company, government agency, or organization in partnership with the Department of Homeland Security
+O B. Maintenance of the nation's Internet infrastructure, builds out new Internet infrastructure, and decommissions old Internet infrastructure
+C. Registration of critical penetration testing for the Department of Homeland Security and public and private sectors
+OD. Measurement of key vulnerability assessments on behalf of the Department of Defense (DOD) and State Department, as well as private sectors
+A. Incident response services to any user, company, government agency, or organization in partnership with the Department of Homeland Security
+
+
+56. A Certificate Authority (CA) generates a key pair that will be used for encryption and decryption of email. The integrity of the encrypted email is dependent on the security of which of the following?
+O A Public key
+OB. Private key
+OC. Modulus length
+O D. Email server certificate
+B. Private key
+
+
+57. Diffie-Hellman (DH) groups determine the strength of the key used in the key exchange process. Which of the following is the correct bit size of the Diffie-Hellman (DH) group 5?
+OA. 768 bit key
+OB. 1025 bit key
+O C. 1536 bit key
+OD. 2048 bit key
+C. 1536 bit key
+
+
+58. To reduce the attack surface of a system, administrators should perform which of the following processes to remove unnecessary software, services, and insecure configuration settings?
+OA Harvesting
+OB. Windowing
+O C. Hardening
+OD. Stealthing
+C. Hardening
+
+
+59. Windows file servers commonly hold sensitive files, databases, passwords and more. Which of the following choices would be a common vulnerability that usually exposes them?
+O A Cross-site scripting
+OB SQL injection
+O C. Missing patches
+OD. CRLF injection
+C. Missing patches
+
+
+60. Which of the following processes evaluates the adherence of an organization to its stated security policy?
+OA Vulnerability assessment
+OB. Penetration testing
+OC. Risk assessment
+OD. Security auditing
+D. Security auditing
+
+
+61. How is sniffing broadly categorized?
+OA. Active and passive
+OB. Broadcast and unicast
+OC. Unmanaged and managed
+OD. Filtered and unfiltered
+A. Active and passive
+
+
+62. What is the primary drawback to using advanced encryption standard (AES) algorithm with a 256 bit key to share sensitive data?
+O A. Due to the key size, the time it will take to encrypt and decrypt the message hinders efficient communication.
+OB. To get messaging programs to function with this algorithm requires complex configurations.
+O C. It has been proven to be a weak cipher, therefore, should not be trusted to protect sensitive data.
+O D. It is a symmetric key algorithm, meaning each recipient must receive the key through a different channel than the message.
+D. It is a symmetric key algorithm, meaning each recipient must receive the key through a different channel than the message.
+
+
+63. Which of the following can take an arbitrary length of input and produce a message digest output of 160 bit?
+OA. SHA-1
+O B. MD5
+O C. HAVAL
+OD. MD4
+A. SHA-1
+
+
+64. Which of the following programs is usually targeted at Microsoft Office products?
+O A. Polymorphic virus
+O B. Multipart virus
+OC. Macro virus
+OD. Stealth virus
+C. Macro virus
+
+
+65. If a tester is attempting to ping a target that exists but receives no response or a response that states the destination is unreachable, ICMP may be disabled and the network may be using TCP. Which other option could the tester use to get a response from a host using TCP?
+O A. Hping
+OB. Traceroute
+0 c. TCP ping
+OD. Broadcast ping
+A. Hping
+
+
+
+6.______identifies the level of auditing, enumerates the types of auditable events, and identifies the minimum set of audit-related information provided.
+A. Event selection B. Data generation
+C. Automatic response D. Audit analysis
+b
+
+
+8._________ audit trails are generally used to monitor and optimize system performance.
+A. User-level
+B. Physical-level
+C. System-level
+D. All of the above
+c
+
+
+
+
+
+00:02
+01:28
+9._________ audit trails may be used to detect security violations within an application or to detect flaws in the application's interaction with the system.
+A. Application-level
+B. System-level
+C. User-level
+D. None of the above
+a
+
+
+10.Windows allows the system user to enable auditing in _______ different categories.
+A. five
+B. seven
+C. nine
+D. eleven
+c
+
+
+11.Severe messages, such as immediate system shutdown, is a(n) _____ severity.
+
+A. alert
+B. emerg
+C. crit
+D. warning
+b
+
+
+12.System conditions requiring immediate attention is a(n) _______ severity.
+A. alert
+B. err
+C. notice
+D. emert
+a
+
+
+13.With _________ the linking to shared library routines is deferred until load time so that if changes are made any program that references the library is unaffected.
+
+A.statically linked shared libraries
+B.dynamically linked shared libraries
+C.system linked shared libraries
+D.all of the above
+b
+
+
+14.______ is the identification of data that exceed a particular baseline value.
+A. Anomaly detection
+B. Real-time analysis
+C. Thresholding
+D. All of the above
+c
+
+
+15._____ software is a centralized logging software package similar to, but much more complex than, syslog.
+A. NetScan
+B. McAfee
+C. IPConfig
+D. SIEM
+d
+
+
+"Incorrect Calculation of Buffer Size" is in the __________ software error category.
+
+A. Porous Defenses
+B. Allocation of Resources
+C. Risky Resource Management
+D. Insecure Interaction Between Components
+c
+
+
+"Improper Access Control (Authorization)" is in the _________ software error
+category.
+
+A. Porous Defenses
+B. Allocation of Resources
+C. Risky Resource Management
+D. Insecure Interaction Between Components
+a
+
+
+Defensive programming is sometimes referred to as _________.
+
+A. variable programming
+B. secure programming
+C. interpretive programming
+D. chroot programming
+b
+
+
+
+
+
+00:02
+01:28
+Incorrect handling of program _______ is one of the most common failings in
+software security.
+
+A. lines
+B. input
+C. output
+D. disciplines
+b
+
+
+_________ is a program flaw that occurs when program input data can accidentally or deliberately influence the flow of execution of the program.
+
+A. PHP attack
+B. Format string injection attack
+C. XSS attack
+D. Injection attack
+d
+
+
+A _________ attack occurs when the input is used in the construction of a command that is subsequently executed by the system with the privileges of the Web server.
+
+A. command injection
+B. SQL injection
+C. code injection
+D. PHP remote code injection
+a
+
+
+A _______ attack is where the input includes code that is then executed by the attacked system.
+
+A. SQL injection
+B. cross-site scripting
+C. code injection
+D. interpreter injection
+c
+
+
+Blocking assignment of form field values to global variables is one of the defenses available to prevent a __________ attack.
+
+A. PHP remote code injection
+B. mail injection
+C. command injection
+D. SQL injection
+a
+
+
+__________ attacks are vulnerabilities involving the inclusion of script code in the HTML content of a Web page displayed by a user's browser.
+
+A. PHP file inclusion
+B. Mail injection
+C. Code injection
+D. Cross-site scripting
+d
+
+
+A ________ is a pattern composed of a sequence of characters that describe allowable input variants.
+
+A. canonicalization
+B. race condition
+C. regular expression
+D. shell script
+c
+
+
+The intent of ________ is to determine whether the program or function correctly handles all abnormal inputs or whether it crashes or otherwise fails to respond appropriately.
+
+A. shell scripting
+B. fuzzing
+C. canonicalization
+D. deadlocking
+b
+
+
+A stead reduction in memory available on the heap to the point where it is completely exhausted is known as a ________.
+
+A. fuzzing
+B. deadlock
+C. memory injection
+D. memory leak
+d
+
+
+The most common technique for using an appropriate synchronization mechanism to serialize the accesses to prevent errors is to acquire a _______ on the shared file, ensuring that each process has appropriate access in turn.
+
+A. lock
+B. code injection
+C. chroot jail
+D. privilege escalation
+a
+
+
+_________ are a collection of string values inherited by each process from its parent that can affect the way a running process behaves.
+
+A. Deadlocks
+B. Privileges
+C. Environment variables
+D. Race conditions
+c
+
+
+The most common variant of injecting malicious script content into pages returned to users by the targeted sites is the _________ vulnerability.
+
+A. XSS reflection
+B. chroot jail
+C. atomic bomb
+D. PHP file inclusion
+a
+
+
+1. _____ defines a number of content formats, which standardize representations for the support of multimedia e-mail.
+
+A. MEM
+B. MIME
+C. MSC
+D. DKIM
+B
+
+
+2. The ________ function consists of encrypted content of any type and encrypted-content encryption keys for one or more recipients.
+
+A. clear-signed data
+B. signed data
+C. enveloped data
+D. signed and enveloped data
+C
+
+
+3. In the case of ________ only the digital signature is encoded using base64.
+
+A. enveloped data
+B. signed and enveloped data
+C. signed data
+D. clear-signed data
+D
+
+
+4. The result of S/MIME encrypting the digest using DSS and the sender's private DSS key is the ________.
+
+A. digital signature
+B. envelope
+C. digest code
+D. mail extension
+A
+
+
+5. To protect the data, either the signature alone or the signature plus the message are mapped into printable ASCII characters using a scheme known as ________ or base64mapping.
+
+A. radix-64
+B. ASCII-64
+C. ESP-64
+D. safe mapping
+A
+
+
+6. The basic tool that permits widespread use of S/MIME is ________.
+
+A. the domain key
+B. the public-key certificate
+C. the MIME security payload
+D. radix-64
+B
+
+
+7. At its most fundamental level the Internet mail architecture consists of a user world in the form of _________.
+
+A. MHS
+B. MSA
+C. MUA
+D. MDA
+C
+
+
+8. The ______ is responsible for transferring the message from the MHS to the MS.
+
+A. MDA
+B. MS
+C. MUA
+D. MSA
+A
+
+
+9. The ________ accepts the message submitted by a message user agent and enforces the policies of the hosting domain and the requirements of Internet standards.
+
+A. mail submission agent
+B. message user agent
+C. mail delivery agent
+D. message transfer agent
+A
+
+
+10. The most complex part of TLS is the __________.
+
+A. signature
+B. message header
+C. payload
+D. handshake protocol
+D
+
+
+11. _______ is a list that contains the combinations of cryptographic algorithms supported by the client.
+
+A. Compression method
+B. Session ID
+C. CipherSuite
+D. All of the above
+C
+
+
+12. ESP supports two modes of use: transport and _________.
+
+A. padding
+B. tunnel
+C. payload
+D. sequence
+B
+
+
+13. IPsec can assure that _________.
+
+A. a router advertisement comes from an authorized
+router
+B. a routing update is not forged
+C. a redirect message comes from the router to which
+the initial packet was sent
+D. all of the above
+D
+
+
+14. A benefit of IPsec is __________.
+
+A. that it is below the transport layer and transparent
+to applications
+B. there is no need to revoke keying material when
+users leave the organization
+C. it can provide security for individual users if needed
+D. all of the above
+D
+
+
+15. The _______ field in the outer IP header indicates whether the association is an AH or ESP security association.
+
+A. protocol identifier
+B. security parameter index
+C. IP destination address
+D. sequence path counter
+A
+
+
+1. One of the earliest and most widely used services is _________.
+
+A. Kerbero
+B. FIM
+C. PKI
+D. X.509
+A
+
+
+2. _______ is important as part of the directory service that it supports and is also a basic building block used in other standards.
+
+A. PKI
+B. X.509
+C. Kerberos
+D. FIM
+B
+
+
+3. ________ requires that a user prove his or her identity for each service invoked and, optionally, requires servers to prove their identity to clients.
+
+A. FIM
+B. Kerberos
+C. X.509
+D. PKI
+B
+
+
+4. Kerberos uses the _______ encryption algorithm.
+
+A. AES
+B. PKI
+C. DES
+D. TGS
+C
+
+
+5. _______ certificates are used in most network security applications, including IP security, secure sockets layer, secure electronic transactions, and S/MIME.
+
+A. X.509
+B. PKI
+C. FIM
+D. SCA
+A
+
+
+6. The _______ consists of two dates: the first and last on which the certificate is valid.
+
+A. version
+B. period of validity
+C. extension
+D. unique identifier
+B
+
+
+7. An integer value unique within the issuing CA that is unambiguously associated with the certificate is the ________.
+
+A. issuer name
+B. subject's public-key information
+C. issuer unique identifier
+D. serial number
+D
+
+
+8. A _______ is a generic term used to denote any method for storing certificates and CRLs so that they can be retrieved by end entities.
+
+A. RA
+B. registration
+C. repository
+D. CA
+C
+
+
+9. _______ is the process in which a CA issues a certificate for a user's public key and returns that certificate to the user's client system and/or posts that certificate in a repository.
+
+A. Certification
+B. Registration
+C. Initialization
+D. Authorization
+A
+
+
+10. _______ is the process whereby a user first makes itself known to a CA prior to that CA issuing a certificate or certificates for that user.
+
+A. Authorization
+B. Registration
+C. Certification
+D. Initialization
+B
+
+
+11. ________ is a process where authentication and permission will be passed on from one system to another, usually across multiple enterprises, reducing the number of authentications needed by the user.
+
+A. Integration
+B. Registration
+C. Synchronization
+D. Federation
+D
+
+
+12. _______ is a minimal set of conventions for invoking code using XML over HTTP that enables applications to request services from one another with XML-based requests and receive responses as data formatted with XML.
+
+A. SOAP
+B. SAML
+C. HTML
+D. WS-Security
+A
+
+
+13. _____ is a markup language that uses sets of embedded tags or labels to characterize text elements within a document so as to indicate their appearance, function, meaning, or context.
+
+A. HML
+B. HTTP
+C. XML
+D. SOAP
+C
+
+
+14. A principal element of an identity management system is _______.
+
+A. workflow automation
+B. delegated administration
+C. authentication
+D. all of the above
+D
+
+
+15. _______ is movement of data in a business process.
+
+A. Provisioning
+B. Workflow automation
+C. Revocation
+D. Initialization
+B
+
+
+1. _______ is a benefit of security awareness, training, and education programs to organizations.
+
+A. Improving employee behavior
+B. Increasing the ability to hold employees accountable for their actions
+C. Mitigating liability of the organization for an employee's behavior
+D. All of the above
+D
+
+
+2. Security awareness, training, and education programs can serve as a deterrent to fraud and actions by disgruntled employees by increasing employees' knowledge of their ________ and of potential penalties.
+
+A. regulations
+B. accountability
+C. liability
+D. incidents
+B
+
+
+3. The _______ category is a transitional stage between awareness and training.
+
+A. roles and responsibilities relative to IT systems
+B. security basics and literacy
+C. education and experience
+D. security awareness
+B
+
+
+4. ________ is explicitly required for all employees.
+
+A. Security awareness
+B. Education and experience
+C. Security basics and literacy
+D. Roles and responsibilities relative to IT systems
+A
+
+
+6. _______ are ways for an awareness program to promote the security message to employees.
+
+A. Posters
+B. Newsletters
+C. Workshops and training sessions
+D. All of the above
+D
+
+
+7. ________ need training on the development of risk management goals, means of measurement, and the need to lead by example in the area of security awareness.
+
+A. Executives
+B. Analysts
+C. Managers
+D. Trainers
+A
+
+
+8. From a security point of view, which of the following actions should be done upon the termination of an employee?
+
+A. remove the person's name from all lists of authorized access
+
+B. recover all assets, including employee ID, disks, documents and equipment
+
+C. remove all personal access codes
+
+D. all of the above
+D
+
+
+9. ________ is the process of receiving, initial sorting, and prioritizing of information to facilitate its appropriate handling.
+
+A. Incident
+B. Triage
+C. Constituency
+D. Handling
+B
+
+
+10. CERT stands for ___________.
+
+A. Computer Error Response Team
+B. Compliance Error Repair Technology
+C. Computer Emergency Response Team
+D. Compliance Emergency Response Technology
+C
+
+
+11. ________ can include computer viruses, Trojan horse programs, worms, exploit scripts, and toolkits.
+
+A. Artifacts
+B. Vulnerabilities
+C. CSIRT
+D. Constituencies
+A
+
+
+12. A capability set up for the purpose of assisting in responding to computer security-related incidents that involve sites within a defined constituency is called a ______.
+
+A. CIRT
+B. CIRC
+C. CSIRT
+D. all of the above
+D
+
+
+13. ___________ scan critical system files, directories, and services to ensure they have not been changed without proper authorization.
+
+A. Intrusion prevention systems
+B. System integrity verification tools
+C. Log analysis tools
+D. Network and host intrusion detection systems
+B
+
+
+14. A _______ policy states that the company may access, monitor, intercept, block access, inspect, copy, disclose, use, destroy, or recover using computer forensics any data covered by this policy.
+
+A. standard of conduct
+B. unlawful activity prohibited
+C. company rights
+D. business use only
+C
+
+
+15. A _______ policy states that violation of this policy may result in immediate termination of employment or other discipline deemed appropriate by the company.
+
+A. disciplinary action
+B. company rights
+C. policy scope
+D. business use only
+A
+
+
+1. __________ assures that individuals control or influence what information related to them may be collected and stored and by whom and to whom that information may be disclosed.
+
+A. Availability
+B. Privacy
+C. System Integrity
+D. Data Integrity
+B
+
+
+2. ________ assures that a system performs its intended function in an unimpaired manner, free from deliberate or inadvertent unauthorized manipulation of the system.
+
+A. System Integrity
+B. Availability
+C. Data Integrity
+D. Confidentiality
+A
+
+
+3. A loss of _________ is the unauthorized disclosure of information.
+
+A. confidentiality
+B. authenticity
+C. integrity
+D. availability
+A
+
+
+A ________ level breach of security could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals.
+
+A. low
+B. moderate
+C. normal
+D. high
+D
+
+
+. A flaw or weakness in a system's design, implementation, or operation and management that could be exploited to violate the system's security policy is a(n) __________.
+
+A. countermeasure
+B. adversary
+C. vulnerability
+D. risk
+C
+
+
+An assault on system security that derives from an intelligent act that is a deliberate attempt to evade security services and violate the security policy of a system is a(n) __________.
+
+A. risk
+B. attack
+C. asset
+D. vulnerability
+B
+
+
+A(n) __________ is an action, device, procedure, or technique that reduces a threat, a vulnerability, or an attack by eliminating or preventing it, by minimizing the harm it can cause, or by discovering and reporting it so that correct action can be taken.
+
+A. attack
+B. adversary
+C. countermeasure
+D. protocol
+C
+
+
+A(n) _________ is an attempt to learn or make use of information from the system that does not affect system resources.
+
+A. passive attack
+B. outside attack
+C. inside attack
+D. active attack
+A
+
+
+Masquerade, falsification, and repudiation are threat actions that cause __________ threat consequences.
+
+A. unauthorized disclosure
+B. disruption
+C. deception
+D. usurpation
+C
+
+
+A threat action in which sensitive data are directly released to an unauthorized entity is __________.
+
+A. corruption
+B. intrusion
+C. disruption
+D. exposure
+D
+
+
+An example of __________ is an attempt by an unauthorized user to gain access to a system by posing as an authorized user.
+
+A. masquerade
+B. repudiation
+C. interception
+D. inference
+A
+
+
+The _________ prevents or inhibits the normal use or management of communications facilities.
+
+A. passive attack
+B. denial of service
+C. traffic encryption
+D. masquerade
+B
+
+
+A __________ is any action that compromises the security of information owned by an organization.
+
+A. security mechanism
+B. security policy
+C. security attack
+D. security service
+C
+
+
+The assurance that data received are exactly as sent by an authorized entity is __________.
+
+A. authentication
+B. access control
+C. data confidentiality
+D. data integrity
+D
+
+
+15. __________ is the insertion of bits into gaps in a data stream to frustrate traffic analysis attempts.
+
+A. Traffic padding
+B. Traffic control
+C. Traffic routing
+D. Traffic integrity
+A
+
+
+1. "Incorrect Calculation of Buffer Size" is in the __________ software error category.
+
+A. Porous Defenses
+B. Allocation of Resources
+C. Risky Resource Management
+D. Insecure Interaction Between Components
+C
+
+
+2. "Improper Access Control (Authorization)" is in the _________ software error
+category.
+
+A. Porous Defenses
+B. Allocation of Resources
+C. Risky Resource Management
+D. Insecure Interaction Between Components
+A
+
+
+3. Defensive programming is sometimes referred to as _________.
+
+A. variable programming
+B. secure programming
+C. interpretive programming
+D. chroot programming
+B
+
+
+4. Incorrect handling of program _______ is one of the most common failings in
+software security.
+
+A. lines
+B. input
+C. output
+D. disciplines
+B
+
+
+5. _________ is a program flaw that occurs when program input data can accidentally or deliberately influence the flow of execution of the program.
+
+A. PHP attack
+B. Format string injection attack
+C. XSS attack
+D. Injection attack
+D
+
+
+6. A _________ attack occurs when the input is used in the construction of a command that is subsequently executed by the system with the privileges of the Web server.
+
+A. command injection
+B. SQL injection
+C. code injection
+D. PHP remote code injection
+A
+
+
+7. A _______ attack is where the input includes code that is then executed by the attacked system.
+
+A. SQL injection
+B. cross-site scripting
+C. code injection
+D. interpreter injection
+C
+
+
+8. Blocking assignment of form field values to global variables is one of the defenses available to prevent a __________ attack.
+
+A. PHP remote code injection
+B. mail injection
+C. command injection
+D. SQL injection
+A
+
+
+9. __________ attacks are vulnerabilities involving the inclusion of script code in the HTML content of a Web page displayed by a user's browser.
+
+A. PHP file inclusion
+B. Mail injection
+C. Code injection
+D. Cross-site scripting
+D
+
+
+10. A ________ is a pattern composed of a sequence of characters that describe allowable input variants.
+
+A. canonicalization
+B. race condition
+C. regular expression
+D. shell script
+C
+
+
+11. The intent of ________ is to determine whether the program or function correctly handles all abnormal inputs or whether it crashes or otherwise fails to respond appropriately.
+
+A. shell scripting
+B. fuzzing
+C. canonicalization
+D. deadlocking
+B
+
+
+12. A stead reduction in memory available on the heap to the point where it is completely exhausted is known as a ________.
+
+A. fuzzing
+B. deadlock
+C. memory injection
+D. memory leak
+D
+
+
+13. The most common technique for using an appropriate synchronization mechanism to serialize the accesses to prevent errors is to acquire a _______ on the shared file, ensuring that each process has appropriate access in turn.
+
+A. lock
+B. code injection
+C. chroot jail
+D. privilege escalation
+A
+
+
+14. _________ are a collection of string values inherited by each process from its parent that can affect the way a running process behaves.
+
+A. Deadlocks
+B. Privileges
+C. Environment variables
+D. Race conditions
+C
+
+
+15. The most common variant of injecting malicious script content into pages returned to users by the targeted sites is the _________ vulnerability.
+
+A. XSS reflection
+B. chroot jail
+C. atomic bomb
+D. PHP file inclusion
+A
+
+
+C
+"Incorrect Calculation of Buffer Size" is in the __________ software error category.
+
+A. Porous Defenses
+B. Allocation of Resources
+C. Risky Resource Management
+D. Insecure Interaction Between Components
+
+
+A
+"Improper Access Control (Authorization)" is in the _________ software error category.
+
+A. Porous Defenses
+B. Allocation of Resources
+C. Risky Resource Management
+D. Insecure Interaction Between Components
+
+
+B
+Defensive programming is sometimes referred to as _________.
+
+A. variable programming
+B. secure programming
+C. interpretive programming
+D. chroot programming
+
+
+B
+Incorrect handling of program _______ is one of the most common failings in software security.
+
+A. lines
+B. input
+C. output
+D. disciplines
+
+
+D
+_________ is a program flaw that occurs when program input data can accidentally or deliberately influence the flow of execution of the program.
+
+A. PHP attack
+B. Format string injection attack
+C. XSS attack
+D. Injection attack
+
+
+A
+A _________ attack occurs when the input is used in the construction of a command that is subsequently executed by the system with the privileges of the Web server.
+
+A. command injection
+B. SQL injection
+C. code injection
+D. PHP remote code injection
+
+
+C
+A _______ attack is where the input includes code that is then executed by the attacked system.
+
+A. SQL injection
+B. cross-site scripting
+C. code injection
+D. interpreter injection
+
+
+A
+Blocking assignment of form field values to global variables is one of the defenses available to prevent a __________ attack.
+
+A. PHP remote code injection
+B. mail injection
+C. command injection
+D. SQL injection
+
+
+D
+__________ attacks are vulnerabilities involving the inclusion of script code in the HTML content of a Web page displayed by a user's browser.
+
+A. PHP file inclusion
+B. Mail injection
+C. Code injection
+D. Cross-site scripting
+
+
+C
+A ________ is a pattern composed of a sequence of characters that describe allowable input variants.
+
+A. canonicalization
+B. race condition
+C. regular expression
+D. shell script
+
+
+B
+The intent of ________ is to determine whether the program or function correctly handles all abnormal inputs or whether it crashes or otherwise fails to respond appropriately.
+
+A. shell scripting
+B. fuzzing
+C. canonicalization
+D. deadlocking
+
+
+D
+A stead reduction in memory available on the heap to the point where it is completely exhausted is known as a ________.
+
+A. fuzzing
+B. deadlock
+C. memory injection
+D. memory leak
+
+
+A
+The most common technique for using an appropriate synchronization mechanism to serialize the accesses to prevent errors is to acquire a _______ on the shared file, ensuring that each process has appropriate access in turn.
+
+A. lock
+B. code injection
+C. chroot jail
+D. privilege escalation
+
+
+C
+_________ are a collection of string values inherited by each process from its parent that can affect the way a running process behaves.
+
+A. Deadlocks
+B. Privileges
+C. Environment variables
+D. Race conditions
+
+
+A
+The most common variant of injecting malicious script content into pages returned to users by the targeted sites is the _________ vulnerability.
+
+A. XSS reflection
+B. chroot jail
+C. atomic bomb
+D. PHP file inclusion
+
+
+B
+1. ______ relates to the capacity of the network links connecting a server to the wider Internet.
+
+A. Application resource
+B. Network bandwidth
+C. System payload
+D. Directed broadcast
+
+
+C
+2. A ______ triggers a bug in the system's network handling software causing it to crash and the system can no longer communicate over the network until this software is reloaded.
+
+A. echo
+B. reflection
+C. poison packet
+D. flash flood
+
+
+A
+3. Using forged source addresses is known as _________.
+
+A. source address spoofing
+B. a three-way address
+C. random dropping
+D. directed broadcast
+
+
+B
+4. The ______ attacks the ability of a network server to respond to TCP connection requests by overflowing the tables used to manage such connections.
+
+A. DNS amplification attack
+B. SYN spoofing attack
+C. basic flooding attack
+D. poison packet attack
+
+
+D
+5. TCP uses the _______ to establish a connection.
+
+A. zombie
+B. SYN cookie
+C. directed broadcast
+D. three-way handshake
+
+
+A
+6. _______ bandwidth attacks attempt to take advantage of the disproportionally large resource consumption at a server.
+
+A. Application-based
+B. System-based
+C. Random
+D. Amplification
+
+
+C
+7. _______ is a text-based protocol with a syntax similar to that of HTTP.
+
+A. RIP
+B. DIP
+C. SIP
+D. HIP
+
+
+B
+8. Bots starting from a given HTTP link and then following all links on the provided Web site in a recursive way is called _______.
+
+A. trailing
+B. spidering
+C. spoofing
+D. crowding
+
+
+D
+9. ______ attempts to monopolize all of the available request handling threads on the Web server by sending HTTP requests that never complete.
+
+A. HTTP
+B. Reflection attacks
+C. SYN flooding
+D. Slowloris
+
+
+A
+10. A characteristic of reflection attacks is the lack of _______ traffic.
+
+A. backscatter
+B. network
+C. three-way
+D. botnet
+
+
+A
+11. In both direct flooding attacks and ______ the use of spoofed source addresses results in response packets being scattered across the Internet and thus detectable.
+
+A. SYN spoofing attacks
+B. indirect flooding attacks
+C. ICMP attacks
+D. system address spoofing
+
+
+B
+12. In a _______ attack the attacker creates a series of DNS requests containing the spoofed source address for the target system.
+
+A. SYN flood
+B. DNS amplification
+C. poison packet
+D. UDP flood
+
+
+C
+13. It is possible to specifically defend against the ______ by using a modified version of the TCP connection handling code.
+
+A. three-way handshake
+B. UDP flood
+C. SYN spoofing attack
+D. flash crowd
+
+
+D
+14. Modifying the system's TCP/IP network code to selectively drop an entry for an incomplete connection from the TCP connections table when it overflows, allowing a new connection attempt to proceed is _______.
+
+A. poison packet
+B. slashdot
+C. backscatter traffic
+D. random drop
+
+
+A
+15. When a DoS attack is detected, the first step is to _______.
+
+A. identify the attack
+B. analyze the response
+C. design blocking filters
+D. shut down the network
+
+
+b
+choose the most common method of distributing malware
+a. None of the other choices
+b. Drive-by downloads
+c. Unapproved software
+d. Ransomware
+e. Usb flash drives
+
+
+b
+The incident scene should be returned to normal as soon as the investigator arrives.
+A. True
+B. False
+
+
+e
+choose the best form of anti-malware protection
+A. One-hundred-percent content filtering at all border gateways
+B. Multiple solutions on each system
+C. A single solution throughout the organization
+D.None of the other choices
+E. Anti-malware protection at several locations
+
+
+a
+Why is port scanning considered an incident when it does no damage to the system?
+A.Port scans can precede attacks that cause damage and may lead to a future attack
+B.Could be normal activity mistaken as a scan
+C.Uses system resources
+D.Damages the port
+
+
+c
+Choose the following is the best response after detecting and verifying an incident?
+A. Remediate it
+B. none of the other choices
+C. Contain it
+D. Report it
+E. Gather evidence
+
+
+d
+_______consists of taking the actions deemed appropriate to address the current incident...vv..vvv
+A. Strategic
+B. None of the other choices
+C. Posturing
+D. Tacical
+
+
+b
+Forensic scientists use ______ evidence to reconstruct the events of a crime.
+A.direct evidence
+B.physical evidence
+C.indirect evidence
+D.class evidence
+
+
+d
+_____ is the data present between the logical end of a file and the end of the allocation unit. it is technically allocated space another file cannot use that area); however, slack space typically contains data that was part of the previous file or some random contents of memory, or both
+A. None of the other choices
+B. File read only
+C. File data
+D. File stack
+E. File boot
+
+
+c
+A _________ is a security event that constitutes a security incident in which an intruder gains access to a system without having authorization to do so
+A. Criminal enterprise
+B. Intrusion detection
+C. Security intrusion
+D. IDS
+
+
+e
+_____ Establishes expectations for the protection of sensitive data and resources within the organization. Subsections of this policy may address physical, electronic, and data security matters
+a. None of the other choice
+b. Remote access policy
+c. Acceptable use policy
+d. Internet usage policy
+e. Security policy
+
+
+a
+Employees have no expectation of ______ in their use of company-provided e-mail or Internet access, even if the communication is personal in nature
+a. Privacy
+b. Policy
+c. None of the other choices
+d. Audit
+
+
+a
+MySQL is a very popular open source database that runs on Linux, Unix, and Windows.
+The MySQL configuration file, typically named my.cnf or my.conf, will indicate what
+logging is enabled, where the log files are
+A./var/log/mysql
+B./etc/log
+C./log
+D./var/mysql/log
+E. none of the other choices
+
+
+a
+EnCase, FTK, SMART, and ILook treat an image file as though it were the original disk.
+A.true
+B.false
+
+
+cd
+what are the goals of incident response?
+A.update
+B.scan
+C.investigate
+D.remediate
+
+
+c
+A _______ policy states that the company may access, monitor, intercept, block access, inspect, copy, disclose, use, destroy, or recover using computer forensics any data covered by this policy
+A. Standard of conduct
+B. Unlawful activity prohibited
+C. Company rights
+D. Business use only
+
+
+b
+___________ scan critical system files, directories, and services to ensure they have not been changed without proper authorization
+A. Intrusion prevention systems
+B. System integrity verification tools
+C. Log analysis tools
+D. Network and host intrusion detection systems
+
+
+a
+________ is explicitly required for all employees
+A. Security awareness
+B. Education and experience
+C. Security basics and literacy
+D. Roles and responsibilities relative to IT systems
+
+
+d
+The information collected should provide you with a general sense of what has happened, and should help identify areas where your response protocol might need attention
+A.none of the mentioned
+B.type of the incident was reported
+C.People were reported
+D.Date and time the incident was reported
+
+
+c
+A DNS server that hosts no domains and does not contain any zones is better known as a ________ server.
+A. Secondary server
+B. Primary server
+C. Caching-only
+D. None of the mentioned
+
+
+b
+Network and host _________________ monitor and analyze network and host activity and usually compare this information with a collection of attack signatures to identify potential security incidents
+A. Firewall
+B. IDS
+C. Log
+D. Proxy
+E. None of the other choices
+
+
+b
+A __________ is data appended to, or a cryptographic transformation of, a data unit that allows a recipient of the data unit to prove the source and integrity of the data unit and protect against forgery.
+A.VPN
+B.Digital signature
+C.none of the other choices
+D.Convert
+E.Proxy
+
+
+b
+A _____ is the process of using an automated tool to collect a standard set of data about a running system. The data includes both volatile and nonvolatile information that will rapidly provide answers to investigative questions
+A. None of the other choices
+B. live response
+C. posturing
+D. analyzing data
+E. memory collection
+
+
+c
+_____ actions are designed to deny the attacker access to specific environments or sensitive data during an investigation.
+A.posturing
+B.none of the mentioned
+C.containment
+D.eradicating
+
+
+a
+performing a live data collection and analysis will help you get answers quickly so you can reduce the risk of data loss or other negative consequences of an incident
+A.true
+B.false
+
+
+c
+The _________ level focuses on developing the ability and vision to perform complex, multidisciplinary activities and the skills needed to further the IT security profession and to keep pace with threat and technology changes
+A. Security basics and literacy
+B. Roles and responsibilities relative to IT systems
+C. Education and experience
+D. Security awareness
+
+
+c
+Choose the best type of recovery process .
+A. A manually implemented process
+B. None of the other choices
+C. An automated process
+D. A process that identifies vulnerabilities and impact
+E. A process that maximizes vulnerabilities and impact
+
+
+b
+_______ protocol enables ranges of IP addresses to be defined on a system.
+
+A. None of the other choices
+
+B. DHCP
+
+C. Routing
+
+D. Modem
+
+E. NAT
+
+
+c
+The first checklist you should complete is used to gather the basic vitals of an incident; it is called the
+A. Incident Total Checklist
+B. None of the other choices
+C. Incident Summary Checklist
+D. Attack Total Checklist
+E. Attack Summary Checklist
+
+
+e
+CERT stands for __________
+
+A. Compliance Error Repair Technology
+B. Computer Error Response Team
+C. Compliance Emergency Response Technology
+D. None of the mentioned
+E. Computer Emergency Response Team
+
+
+b
+a trojan progam typically opens a back door to allow___ by an unauthorized user.
+a. gaining password
+b. remote access
+c. none of the mentioned
+d. copying data
+
+
+e
+Two hashing algorithms commonly used for forensic purposes are____
+a. wpa, sha
+b. wpa, rsa
+c. md5, rsa
+d. none of the other choices
+e. md5, sha
+
+
+d
+a bit-by-bit complete, exact copy of all data referred to as a
+a. hash
+b. fingerprint
+c. none of the mentioned
+d. backup
+e.forensic duplicate
+
+
+b
+The assets of a computer system can be categorized as hardware, software, communication lines and networks, and _____
+a. cloud
+b. data
+c. none of the other choices
+d. account
+e. license
+
+
+a
+A(n) ______ is an accurate copy of data that is created with the goal of being admissible as evidence in legal proceedings. Furthermore, we define forensic duplication as an image of every accessible bit from the source medium
+a. forensic duplication
+b. share image
+c. image duplication
+d. copy duplication
+e. none of the other choices
+
+
+a
+A __________ is any action that compromises the security of information owned by an organization
+a. security attack
+b. security mechanism
+c. none of the other choices
+d. security policy
+e. security service
+
+
+b
+A _______ is conducted to determine the adequacy of system controls- ensure compliance with established security policy and procedures-detect breaches in security services- and recommend any changes that are indicated for countermeasures.
+a. user-lever audit
+b. security audit
+c. security audit trail
+d. system-level audit trail
+e. none of the other choices
+
+
+d
+Which of the following would security personnel do during the remediation stage of an incident response?
+
+A. Contain the incident
+B. Collect evidence
+C. Rebuild system
+D. Root cause analysis
+
+
+a b c
+Which of the following are denial-of-service attacks? (Choose three.)
+
+A. Teardrop
+B. Smurf
+C. Ping of death
+D. Spoofing
+
+
+c
+How does a SYN flood attack work?
+
+A. Exploits a packet processing glitch in Windows systems
+B. Uses an amplification network to flood a victim with packets
+C. Disrupts the three-way handshake used by TCP
+D. Sends oversized ping packets to a victim
+
+
+b
+A web server hosted on the Internet was recently attacked, exploiting a vulnerability in the operating system. The operating system vendor assisted in the incident investigation and verified the vulnerability was not previously known. What type of attack was this?
+A. Botnet
+B. Zero-day exploit
+C. Denial-of-service
+D. Distributed denial-of-service
+
+
+a
+Of the following choices, which is the most common method of distributing malware?
+
+A. Drive-by downloads
+B. USB flash drives
+C. Ransomware
+D. Unapproved software
+
+
+a
+Of the following choices, what indicates the primary purpose of an intrusion detection system (IDS)?
+A. Detect abnormal activity
+B. Diagnose system failures
+C. Rate system performance
+D. Test a system for vulnerabilities
+
+
+b
+Which of the following is true for a host-based intrusion detection system (HIDS)?
+
+A. It monitors an entire network.
+B. It monitors a single system.
+C. It's invisible to attackers and authorized users.
+D. It cannot detect malicious code.
+
+
+b
+Which of the following is a fake network designed to tempt intruders with unpatched and unprotected security vulnerabilities and false data?
+
+A. IDS
+B. Honeynet
+C. Padded cell
+D. Pseudo flaw
+
+
+c
+Of the following choices, what is the best form of anti-malware protection?
+
+A. Multiple solutions on each system
+B. A single solution throughout the organization
+C. Anti-malware protection at several locations
+D. One-hundred-percent content filtering at all border gateways
+
+
+b
+When using penetration testing to verify the strength of your security policy, which of the following is not recommended?
+
+A. Mimicking attacks previously perpetrated against your system
+B. Performing attacks without management knowledge
+C. Using manual and automated attack tools
+D. Reconfiguring the system to resolve any discovered vulnerabilities
+
+
+b
+What is used to keep subjects accountable for their actions while they are authenticated to a system?
+
+A. Authentication
+B. Monitoring
+C. Account lockout
+D. User entitlement reviews
+
+
+b
+What type of a security control is an audit trail?
+
+A. Administrative
+B. Detective
+C. Corrective
+D. Physical
+
+
+b
+Which of the following options is a methodical examination or review of an environment to ensure compliance with regulations and to detect abnormalities, unauthorized occurrences, or outright crimes?
+A. Penetration testing
+B. Auditing
+C. Risk analysis
+D. Entrapment
+
+
+b
+What can be used to reduce the amount of logged or audited data using nonstatistical methods?
+
+A. Clipping levels
+B. Sampling
+C. Log analysis
+D. Alarm triggers
+
+
+b
+Which of the following focuses more on the patterns and trends of data than on the actual content?
+
+A. Keystroke monitoring
+B. Traffic analysis
+C. Event logging
+D. Security auditing
+
+
+b
+What would detect when a user has more privileges than necessary?
+
+A. Account management
+B. User entitlement audit
+C. Logging
+D. Reporting
+
+
+d
+What should have been done before rebooting the web server?
+
+A. Review the incident
+B. Perform remediation steps
+C. Take recovery steps
+D. Gather evidence
+
+
+c
+Which of the following indicates the most serious mistake the server administrator made in this incident?
+
+A. Rebooting the server
+B. Not reporting the incident
+C. Attacking the IP address
+D. Resetting the connection
+
+
+a
+What was missed completely in this incident?
+
+A. Lessons learned
+B. Detection
+C. Response
+D. Recovery
+
+
+d
+_______ is a benefit of security awareness, training, and education programs to organizations.
+
+AImproving employee behavior
+B.Increasing the ability to hold employees accountable for their actions
+C.Mitigating liability of the organization for an employee's behavior
+D.All of the above
+
+
+b
+Security awareness, training, and education programs can serve as a deterrent to fraud and actions by disgruntled employees by increasing employees' knowledge of their ________ and of potential penalties.
+A. regulations
+B. accountability
+C. liability
+D. incidents
+
+
+b
+The _______ category is a transitional stage between awareness and training.
+
+A.roles and responsibilities relative to IT systems
+B.security basics and literacy
+C.education and experience
+D.security awareness
+
+
+a
+________ is explicitly required for all employees.
+
+A.Security awareness
+B.Education and experience
+C.Security basics and literacy
+D.Roles and responsibilities relative to IT systems
+
+
+d
+6._______ are ways for an awareness program to promote the security message to employees.
+A. Posters
+B. Newsletters
+C. Workshops and training sessions
+D. All of the above
+
+
+a
+7.________ need training on the development of risk management goals, means of measurement, and the need to lead by example in the area of security awareness.
+A. Executives
+B. Analysts
+C. Managers
+D. Trainers
+
+
+d
+From a security point of view, which of the following actions should be done upon the termination of an employee?
+A. remove the person's name from all lists of authorized access
+B. recover all assets, including employee ID, disks, documents and equipment
+C. remove all personal access codes
+D. all of the above
+
+
+b
+________ is the process of receiving, initial sorting, and prioritizing of information to facilitate its appropriate handling.
+A. Incident
+B. Triage
+C. Constituency
+D. Handling
+
+
+c
+CERT stands for ___________.
+A. Computer Error Response Team
+B. Compliance Error Repair Technology
+C. Computer Emergency Response Team
+D. Compliance Emergency Response Technology
+
+
+b
+___________ scan critical system files, directories, and services to ensure they have not been changed without proper authorization.
+A. Intrusion prevention systems
+B. System integrity verification tools
+C. Log analysis tools
+D. Network and host intrusion detection systems
+
+
+c
+A _______ policy states that the company may access, monitor, intercept, block access, inspect, copy, disclose, use, destroy, or recover using computer forensics any data covered by this policy.
+A. standard of conduct
+B. unlawful activity prohibited
+C. company rights
+D. business use only
+
+
+a
+A _______ policy states that violation of this policy may result in immediate termination of employment or other discipline deemed appropriate by the company.
+A. disciplinary action
+B. company rights
+C. policy scope
+D. business use only
+
+
+b
+2.A _______ is conducted to determine the adequacy of system controls, ensure compliance with established security policy and procedures, detect breaches in security services, and recommend any changes that are indicated for countermeasures.
+
+A. security audit trail
+B. security audit
+C. user-level audit
+D. system-level audit trail
+
+
+a
+3.The _________ is logic embedded into the software of the system that monitors system activity and detects security-related events that it has been configured to detect.
+A. event discriminator
+B. audit analyzer
+C. archive
+D. alarm processor
+
+
+c
+4.The ________ is a module on a centralized system that collects audit trail records from other systems and creates a combined audit trail.
+A. audit dispatcher
+B. audit analyzer
+C. audit trail collector
+D. audit provider
+
+
+...
+5.The ________ is a module that transmits the audit trail records from its local system to the centralized audit trail collector.
+A. audit dispatcher
+B. audit analyzer
+C. audit trail collector
+D. none of the above
+
+
+b
+6.______identifies the level of auditing, enumerates the types of auditable events, and identifies the minimum set of audit-related information provided.
+A. Event selection
+B. Data generation
+C. Automatic response
+D. Audit analysis
+
+
+c
+8._________ audit trails are generally used to monitor and optimize system performance.
+A. User-level
+B. Physical-level
+C. System-level
+D. All of the above
+
+
+a
+9._________ audit trails may be used to detect security violations within an application or to detect flaws in the application's interaction with the system.
+A. Application-level
+B. System-level
+C. User-level
+D. None of the above
+
+
+c
+10.Windows allows the system user to enable auditing in _______ different categories.
+A. five
+B. seven
+C. nine
+D. eleven
+
+
+b
+11.Severe messages, such as immediate system shutdown, is a(n) _____ severity.
+
+A. alert
+B. emerg
+C. crit
+D. warning
+
+
+a
+12.System conditions requiring immediate attention is a(n) _______ severity.
+A. alert
+B. err
+C. notice
+D. emert
+
+
+b
+13.With _________ the linking to shared library routines is deferred until load time so that if changes are made any program that references the library is unaffected.
+
+A.statically linked shared libraries
+B.dynamically linked shared libraries
+C.system linked shared libraries
+D.all of the above
+
+
+c
+14.______ is the identification of data that exceed a particular baseline value.
+A. Anomaly detection
+B. Real-time analysis
+C. Thresholding
+D. All of the above
+
+
+d
+15._____ software is a centralized logging software package similar to, but much more complex than, syslog.
+A. NetScan
+B. McAfee
+C. IPConfig
+D. SIEM
+
+
+c
+"Incorrect Calculation of Buffer Size" is in the __________ software error category.
+
+A. Porous Defenses
+B. Allocation of Resources
+C. Risky Resource Management
+D. Insecure Interaction Between Components
+
+
+a
+"Improper Access Control (Authorization)" is in the _________ software error
+category.
+
+A. Porous Defenses
+B. Allocation of Resources
+C. Risky Resource Management
+D. Insecure Interaction Between Components
+
+
+b
+Defensive programming is sometimes referred to as _________.
+
+A. variable programming
+B. secure programming
+C. interpretive programming
+D. chroot programming
+
+
+b
+Incorrect handling of program _______ is one of the most common failings in
+software security.
+
+A. lines
+B. input
+C. output
+D. disciplines
+
+
+d
+_________ is a program flaw that occurs when program input data can accidentally or deliberately influence the flow of execution of the program.
+
+A. PHP attack
+B. Format string injection attack
+C. XSS attack
+D. Injection attack
+
+
+a
+A _________ attack occurs when the input is used in the construction of a command that is subsequently executed by the system with the privileges of the Web server.
+
+A. command injection
+B. SQL injection
+C. code injection
+D. PHP remote code injection
+
+
+c
+A _______ attack is where the input includes code that is then executed by the attacked system.
+
+A. SQL injection
+B. cross-site scripting
+C. code injection
+D. interpreter injection
+
+
+a
+Blocking assignment of form field values to global variables is one of the defenses available to prevent a __________ attack.
+
+A. PHP remote code injection
+B. mail injection
+C. command injection
+D. SQL injection
+
+
+d
+__________ attacks are vulnerabilities involving the inclusion of script code in the HTML content of a Web page displayed by a user's browser.
+
+A. PHP file inclusion
+B. Mail injection
+C. Code injection
+D. Cross-site scripting
+
+
+c
+A ________ is a pattern composed of a sequence of characters that describe allowable input variants.
+
+A. canonicalization
+B. race condition
+C. regular expression
+D. shell script
+
+
+b
+The intent of ________ is to determine whether the program or function correctly handles all abnormal inputs or whether it crashes or otherwise fails to respond appropriately.
+
+A. shell scripting
+B. fuzzing
+C. canonicalization
+D. deadlocking
+
+
+d
+A stead reduction in memory available on the heap to the point where it is completely exhausted is known as a ________.
+
+A. fuzzing
+B. deadlock
+C. memory injection
+D. memory leak
+
+
+a
+The most common technique for using an appropriate synchronization mechanism to serialize the accesses to prevent errors is to acquire a _______ on the shared file, ensuring that each process has appropriate access in turn.
+
+A. lock
+B. code injection
+C. chroot jail
+D. privilege escalation
+
+
+c
+_________ are a collection of string values inherited by each process from its parent that can affect the way a running process behaves.
+
+A. Deadlocks
+B. Privileges
+C. Environment variables
+D. Race conditions
+
+
+a
+The most common variant of injecting malicious script content into pages returned to users by the targeted sites is the _________ vulnerability.
+
+A. XSS reflection
+B. chroot jail
+C. atomic bomb
+D. PHP file inclusion
+
+
+B
+1. _____ defines a number of content formats, which standardize representations for the support of multimedia e-mail.
+
+A. MEM
+B. MIME
+C. MSC
+D. DKIM
+
+
+C
+2. The ________ function consists of encrypted content of any type and encrypted-content encryption keys for one or more recipients.
+
+A. clear-signed data
+B. signed data
+C. enveloped data
+D. signed and enveloped data
+
+
+D
+3. In the case of ________ only the digital signature is encoded using base64.
+
+A. enveloped data
+B. signed and enveloped data
+C. signed data
+D. clear-signed data
+
+
+A
+4. The result of S/MIME encrypting the digest using DSS and the sender's private DSS key is the ________.
+
+A. digital signature
+B. envelope
+C. digest code
+D. mail extension
+
+
+A
+5. To protect the data, either the signature alone or the signature plus the message are mapped into printable ASCII characters using a scheme known as ________ or base64mapping.
+
+A. radix-64
+B. ASCII-64
+C. ESP-64
+D. safe mapping
+
+
+B
+6. The basic tool that permits widespread use of S/MIME is ________.
+
+A. the domain key
+B. the public-key certificate
+C. the MIME security payload
+D. radix-64
+
+
+C
+7. At its most fundamental level the Internet mail architecture consists of a user world in the form of _________.
+
+A. MHS
+B. MSA
+C. MUA
+D. MDA
+
+
+A
+8. The ______ is responsible for transferring the message from the MHS to the MS.
+
+A. MDA
+B. MS
+C. MUA
+D. MSA
+
+
+A
+9. The ________ accepts the message submitted by a message user agent and enforces the policies of the hosting domain and the requirements of Internet standards.
+
+A. mail submission agent
+B. message user agent
+C. mail delivery agent
+D. message transfer agent
+
+
+D
+10. The most complex part of TLS is the __________.
+
+A. signature
+B. message header
+C. payload
+D. handshake protocol
+
+
+C
+11. _______ is a list that contains the combinations of cryptographic algorithms supported by the client.
+
+A. Compression method
+B. Session ID
+C. CipherSuite
+D. All of the above
+
+
+B
+12. ESP supports two modes of use: transport and _________.
+
+A. padding
+B. tunnel
+C. payload
+D. sequence
+
+
+D
+13. IPsec can assure that _________.
+
+A. a router advertisement comes from an authorized
+router
+B. a routing update is not forged
+C. a redirect message comes from the router to which
+the initial packet was sent
+D. all of the above
+
+
+D
+14. A benefit of IPsec is __________.
+
+A. that it is below the transport layer and transparent
+to applications
+B. there is no need to revoke keying material when
+users leave the organization
+C. it can provide security for individual users if needed
+D. all of the above
+
+
+A
+15. The _______ field in the outer IP header indicates whether the association is an AH or ESP security association.
+
+A. protocol identifier
+B. security parameter index
+C. IP destination address
+D. sequence path counter
+
+
+A
+1. One of the earliest and most widely used services is _________.
+
+A. Kerbero
+B. FIM
+C. PKI
+D. X.509
+
+
+B
+2. _______ is important as part of the directory service that it supports and is also a basic building block used in other standards.
+
+A. PKI
+B. X.509
+C. Kerberos
+D. FIM
+
+
+B
+3. ________ requires that a user prove his or her identity for each service invoked and, optionally, requires servers to prove their identity to clients.
+
+A. FIM
+B. Kerberos
+C. X.509
+D. PKI
+
+
+C
+4. Kerberos uses the _______ encryption algorithm.
+
+A. AES
+B. PKI
+C. DES
+D. TGS
+
+
+A
+5. _______ certificates are used in most network security applications, including IP security, secure sockets layer, secure electronic transactions, and S/MIME.
+
+A. X.509
+B. PKI
+C. FIM
+D. SCA
+
+
+B
+6. The _______ consists of two dates: the first and last on which the certificate is valid.
+
+A. version
+B. period of validity
+C. extension
+D. unique identifier
+
+
+D
+7. An integer value unique within the issuing CA that is unambiguously associated with the certificate is the ________.
+
+A. issuer name
+B. subject's public-key information
+C. issuer unique identifier
+D. serial number
+
+
+C
+8. A _______ is a generic term used to denote any method for storing certificates and CRLs so that they can be retrieved by end entities.
+
+A. RA
+B. registration
+C. repository
+D. CA
+
+
+A
+9. _______ is the process in which a CA issues a certificate for a user's public key and returns that certificate to the user's client system and/or posts that certificate in a repository.
+
+A. Certification
+B. Registration
+C. Initialization
+D. Authorization
+
+
+B
+10. _______ is the process whereby a user first makes itself known to a CA prior to that CA issuing a certificate or certificates for that user.
+
+A. Authorization
+B. Registration
+C. Certification
+D. Initialization
+
+
+D
+11. ________ is a process where authentication and permission will be passed on from one system to another, usually across multiple enterprises, reducing the number of authentications needed by the user.
+
+A. Integration
+B. Registration
+C. Synchronization
+D. Federation
+
+
+A
+12. _______ is a minimal set of conventions for invoking code using XML over HTTP that enables applications to request services from one another with XML-based requests and receive responses as data formatted with XML.
+
+A. SOAP
+B. SAML
+C. HTML
+D. WS-Security
+
+
+C
+13. _____ is a markup language that uses sets of embedded tags or labels to characterize text elements within a document so as to indicate their appearance, function, meaning, or context.
+
+A. HML
+B. HTTP
+C. XML
+D. SOAP
+
+
+D
+14. A principal element of an identity management system is _______.
+
+A. workflow automation
+B. delegated administration
+C. authentication
+D. all of the above
+
+
+B
+15. _______ is movement of data in a business process.
+
+A. Provisioning
+B. Workflow automation
+C. Revocation
+D. Initialization
+
+
+D
+1. _______ is a benefit of security awareness, training, and education programs to organizations.
+
+A. Improving employee behavior
+B. Increasing the ability to hold employees accountable for their actions
+C. Mitigating liability of the organization for an employee's behavior
+D. All of the above
+
+
+B
+2. Security awareness, training, and education programs can serve as a deterrent to fraud and actions by disgruntled employees by increasing employees' knowledge of their ________ and of potential penalties.
+
+A. regulations
+B. accountability
+C. liability
+D. incidents
+
+
+B
+3. The _______ category is a transitional stage between awareness and training.
+
+A. roles and responsibilities relative to IT systems
+B. security basics and literacy
+C. education and experience
+D. security awareness
+
+
+A
+4. ________ is explicitly required for all employees.
+
+A. Security awareness
+B. Education and experience
+C. Security basics and literacy
+D. Roles and responsibilities relative to IT systems
+
+
+D
+6. _______ are ways for an awareness program to promote the security message to employees.
+
+A. Posters
+B. Newsletters
+C. Workshops and training sessions
+D. All of the above
+
+
+A
+7. ________ need training on the development of risk management goals, means of measurement, and the need to lead by example in the area of security awareness.
+
+A. Executives
+B. Analysts
+C. Managers
+D. Trainers
+
+
+D
+8. From a security point of view, which of the following actions should be done upon the termination of an employee?
+
+A. remove the person's name from all lists of authorized access
+
+B. recover all assets, including employee ID, disks, documents and equipment
+
+C. remove all personal access codes
+
+D. all of the above
+
+
+B
+9. ________ is the process of receiving, initial sorting, and prioritizing of information to facilitate its appropriate handling.
+
+A. Incident
+B. Triage
+C. Constituency
+D. Handling
+
+
+C
+10. CERT stands for ___________.
+
+A. Computer Error Response Team
+B. Compliance Error Repair Technology
+C. Computer Emergency Response Team
+D. Compliance Emergency Response Technology
+
+
+A
+11. ________ can include computer viruses, Trojan horse programs, worms, exploit scripts, and toolkits.
+
+A. Artifacts
+B. Vulnerabilities
+C. CSIRT
+D. Constituencies
+
+
+D
+12. A capability set up for the purpose of assisting in responding to computer security-related incidents that involve sites within a defined constituency is called a ______.
+
+A. CIRT
+B. CIRC
+C. CSIRT
+D. all of the above
+
+
+B
+13. ___________ scan critical system files, directories, and services to ensure they have not been changed without proper authorization.
+
+A. Intrusion prevention systems
+B. System integrity verification tools
+C. Log analysis tools
+D. Network and host intrusion detection systems
+
+
+C
+14. A _______ policy states that the company may access, monitor, intercept, block access, inspect, copy, disclose, use, destroy, or recover using computer forensics any data covered by this policy.
+
+A. standard of conduct
+B. unlawful activity prohibited
+C. company rights
+D. business use only
+
+
+A
+15. A _______ policy states that violation of this policy may result in immediate termination of employment or other discipline deemed appropriate by the company.
+
+A. disciplinary action
+B. company rights
+C. policy scope
+D. business use only
+
+
+B
+1. __________ assures that individuals control or influence what information related to them may be collected and stored and by whom and to whom that information may be disclosed.
+
+A. Availability
+B. Privacy
+C. System Integrity
+D. Data Integrity
+
+
+A
+2. ________ assures that a system performs its intended function in an unimpaired manner, free from deliberate or inadvertent unauthorized manipulation of the system.
+
+A. System Integrity
+B. Availability
+C. Data Integrity
+D. Confidentiality
+
+
+A
+3. A loss of _________ is the unauthorized disclosure of information.
+
+A. confidentiality
+B. authenticity
+C. integrity
+D. availability
+
+
+D
+A ________ level breach of security could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals.
+
+A. low
+B. moderate
+C. normal
+D. high
+
+
+C
+. A flaw or weakness in a system's design, implementation, or operation and management that could be exploited to violate the system's security policy is a(n) __________.
+
+A. countermeasure
+B. adversary
+C. vulnerability
+D. risk
+
+
+B
+An assault on system security that derives from an intelligent act that is a deliberate attempt to evade security services and violate the security policy of a system is a(n) __________.
+
+A. risk
+B. attack
+C. asset
+D. vulnerability
+
+
+C
+A(n) __________ is an action, device, procedure, or technique that reduces a threat, a vulnerability, or an attack by eliminating or preventing it, by minimizing the harm it can cause, or by discovering and reporting it so that correct action can be taken.
+
+A. attack
+B. adversary
+C. countermeasure
+D. protocol
+
+
+A
+A(n) _________ is an attempt to learn or make use of information from the system that does not affect system resources.
+
+A. passive attack
+B. outside attack
+C. inside attack
+D. active attack
+
+
+C
+Masquerade, falsification, and repudiation are threat actions that cause __________ threat consequences.
+
+A. unauthorized disclosure
+B. disruption
+C. deception
+D. usurpation
+
+
+D
+A threat action in which sensitive data are directly released to an unauthorized entity is __________.
+
+A. corruption
+B. intrusion
+C. disruption
+D. exposure
+
+
+A
+An example of __________ is an attempt by an unauthorized user to gain access to a system by posing as an authorized user.
+
+A. masquerade
+B. repudiation
+C. interception
+D. inference
+
+
+B
+The _________ prevents or inhibits the normal use or management of communications facilities.
+
+A. passive attack
+B. denial of service
+C. traffic encryption
+D. masquerade
+
+
+C
+A __________ is any action that compromises the security of information owned by an organization.
+
+A. security mechanism
+B. security policy
+C. security attack
+D. security service
+
+
+D
+The assurance that data received are exactly as sent by an authorized entity is __________.
+
+A. authentication
+B. access control
+C. data confidentiality
+D. data integrity
+
+
+A
+15. __________ is the insertion of bits into gaps in a data stream to frustrate traffic analysis attempts.
+
+A. Traffic padding
+B. Traffic control
+C. Traffic routing
+D. Traffic integrity
+
+
+C
+1. "Incorrect Calculation of Buffer Size" is in the __________ software error category.
+
+A. Porous Defenses
+B. Allocation of Resources
+C. Risky Resource Management
+D. Insecure Interaction Between Components
+
+
+A
+2. "Improper Access Control (Authorization)" is in the _________ software error
+category.
+
+A. Porous Defenses
+B. Allocation of Resources
+C. Risky Resource Management
+D. Insecure Interaction Between Components
+
+
+B
+3. Defensive programming is sometimes referred to as _________.
+
+A. variable programming
+B. secure programming
+C. interpretive programming
+D. chroot programming
+
+
+B
+4. Incorrect handling of program _______ is one of the most common failings in
+software security.
+
+A. lines
+B. input
+C. output
+D. disciplines
+
+
+D
+5. _________ is a program flaw that occurs when program input data can accidentally or deliberately influence the flow of execution of the program.
+
+A. PHP attack
+B. Format string injection attack
+C. XSS attack
+D. Injection attack
+
+
+A
+6. A _________ attack occurs when the input is used in the construction of a command that is subsequently executed by the system with the privileges of the Web server.
+
+A. command injection
+B. SQL injection
+C. code injection
+D. PHP remote code injection
+
+
+C
+7. A _______ attack is where the input includes code that is then executed by the attacked system.
+
+A. SQL injection
+B. cross-site scripting
+C. code injection
+D. interpreter injection
+
+
+A
+8. Blocking assignment of form field values to global variables is one of the defenses available to prevent a __________ attack.
+
+A. PHP remote code injection
+B. mail injection
+C. command injection
+D. SQL injection
+
+
+D
+9. __________ attacks are vulnerabilities involving the inclusion of script code in the HTML content of a Web page displayed by a user's browser.
+
+A. PHP file inclusion
+B. Mail injection
+C. Code injection
+D. Cross-site scripting
+
+
+C
+10. A ________ is a pattern composed of a sequence of characters that describe allowable input variants.
+
+A. canonicalization
+B. race condition
+C. regular expression
+D. shell script
+
+
+B
+11. The intent of ________ is to determine whether the program or function correctly handles all abnormal inputs or whether it crashes or otherwise fails to respond appropriately.
+
+A. shell scripting
+B. fuzzing
+C. canonicalization
+D. deadlocking
+
+
+D
+12. A stead reduction in memory available on the heap to the point where it is completely exhausted is known as a ________.
+
+A. fuzzing
+B. deadlock
+C. memory injection
+D. memory leak
+
+
+A
+13. The most common technique for using an appropriate synchronization mechanism to serialize the accesses to prevent errors is to acquire a _______ on the shared file, ensuring that each process has appropriate access in turn.
+
+A. lock
+B. code injection
+C. chroot jail
+D. privilege escalation
+
+
+C
+14. _________ are a collection of string values inherited by each process from its parent that can affect the way a running process behaves.
+
+A. Deadlocks
+B. Privileges
+C. Environment variables
+D. Race conditions
+
+
+A
+15. The most common variant of injecting malicious script content into pages returned to users by the targeted sites is the _________ vulnerability.
+
+A. XSS reflection
+B. chroot jail
+C. atomic bomb
+D. PHP file inclusion
